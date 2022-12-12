@@ -1,0 +1,893 @@
+id,post_id,thread_id,type,comment_id,old_visual_id,visual_id,issue,formula
+1,9,1,comment,4598590.0,1294,1294,, <semantics><mi>π</mi></semantics> 
+2,2453,1,answer,,115,115,, <semantics><mi>X</mi></semantics> 
+3,2453,1,answer,,40826,40826,, <semantics><mi>P</mi><mo>⁢</mo><mo>(</mo><mi>X</mi><mo>)</mo></semantics> 
+4,2453,1,answer,,1,1,, <semantics><mi>f</mi></semantics> 
+5,2453,1,answer,,115,115,, <semantics><mi>X</mi></semantics> 
+6,2453,1,answer,,40826,40826,, <semantics><mi>P</mi><mo>⁢</mo><mo>(</mo><mi>X</mi><mo>)</mo></semantics> 
+7,2453,1,answer,,1,1,, <semantics><mi>f</mi></semantics> 
+8,2453,1,answer,,40826,40826,, <semantics><mi>P</mi><mo>⁢</mo><mo>(</mo><mi>X</mi><mo>)</mo></semantics> 
+9,2453,1,answer,,403,403,, <semantics><mi>S</mi></semantics> 
+10,2453,1,answer,,1,1,, <semantics><mi>f</mi></semantics> 
+12,2453,1,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+13,2453,1,answer,,115,115,, <semantics><mi>X</mi></semantics> 
+14,2453,1,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+15,2453,1,answer,,319,319,, <semantics><mi>T</mi></semantics> 
+16,2453,1,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+17,2453,1,answer,,319,319,, <semantics><mi>T</mi></semantics> 
+18,2453,1,answer,,319,319,, <semantics><mi>T</mi></semantics> 
+19,2453,1,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+20,2453,1,answer,,1805,1805,, <semantics><mi>f</mi><mo>⁢</mo><mo>(</mo><mi>x</mi><mo>)</mo></semantics> 
+21,2453,1,answer,,319,319,, <semantics><mi>T</mi></semantics> 
+22,2453,1,answer,,1805,1805,, <semantics><mi>f</mi><mo>⁢</mo><mo>(</mo><mi>x</mi><mo>)</mo></semantics> 
+24,2453,1,answer,,319,319,, <semantics><mi>T</mi></semantics> 
+25,2453,1,answer,,319,319,, <semantics><mi>T</mi></semantics> 
+26,2453,1,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+27,2453,1,answer,,1805,1805,, <semantics><mi>f</mi><mo>⁢</mo><mo>(</mo><mi>x</mi><mo>)</mo></semantics> 
+28,2453,1,answer,,319,319,, <semantics><mi>T</mi></semantics> 
+29,2453,1,answer,,1805,1805,, <semantics><mi>f</mi><mo>⁢</mo><mo>(</mo><mi>x</mi><mo>)</mo></semantics> 
+30,52,1,answer,,87828,87828,," <semantics><msub><mi>a</mi><mn>1</mn></msub><mo>,</mo><msub><mi>a</mi><mn>2</mn></msub><mo>,</mo><msub><mi>a</mi><mn>3</mn></msub><mo>,</mo><mi>…</mi></semantics> "
+31,52,1,answer,,1010731,1010731,," <semantics><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mo>-</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mo>-</mo><mn>3</mn><mo>,</mo><mi>…</mi></semantics> "
+32,52,1,answer,,8229745,8229745,," <semantics><mfrac><mn>1</mn><mn>1</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>2</mn><mn>1</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>,</mo><mfrac><mn>2</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>3</mn><mn>1</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>,</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>4</mn><mn>1</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>,</mo><mfrac><mn>2</mn><mn>4</mn></mfrac><mo>,</mo><mi>…</mi></semantics> "
+33,52,1,answer,,8229746,8229746,," <semantics><mfrac><mn>1</mn><mn>1</mn></mfrac><mo>,</mo><mfrac><mn>2</mn><mn>2</mn></mfrac></semantics> "
+34,52,1,answer,,1067413,1067413,," <semantics><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>2</mn><mn>4</mn></mfrac></semantics> "
+35,52,1,answer,,8229747,8229747,," <semantics><mfrac><mn>1</mn><mn>1</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>2</mn><mn>1</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>,</mo><mfrac><mn>3</mn><mn>1</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>,</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>4</mn><mn>1</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>,</mo><mi>…</mi></semantics> "
+36,52,1,answer,,20335,20335,, <semantics><msub><mi>q</mi><mi>n</mi></msub></semantics> 
+37,52,1,answer,,177,177,, <semantics><mi>n</mi></semantics> 
+38,52,1,answer,,8229748,8229748,," <semantics><mn>0</mn><mo>,</mo><msub><mi>q</mi><mn>1</mn></msub><mo>,</mo><mo>-</mo><msub><mi>q</mi><mn>1</mn></msub><mo>,</mo><msub><mi>q</mi><mn>2</mn></msub><mo>,</mo><mo>-</mo><msub><mi>q</mi><mn>2</mn></msub><mo>,</mo><msub><mi>q</mi><mn>3</mn></msub><mo>,</mo><mo>-</mo><msub><mi>q</mi><mn>3</mn></msub><mo>,</mo><mi>…</mi></semantics> "
+39,5,5,question,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+40,5,5,question,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+45,5,5,comment,4731036.0,24677,24677,," <semantics><mi>gcd</mi><mo>⁡</mo><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>)</mo><mo>=</mo><mn>1</mn></semantics> "
+46,5,5,comment,4731036.0,2722865,2722865,, <semantics><msqrt><mi>n</mi></msqrt><mo>=</mo><mfrac><mi>a</mi><mi>b</mi></mfrac></semantics> 
+47,5,5,comment,4731036.0,159,159,, <semantics><mi>a</mi></semantics> 
+48,5,5,comment,4731036.0,368,368,, <semantics><mi>b</mi></semantics> 
+49,5,5,comment,4731036.0,4105407,4105407,, <semantics><msup><mi>a</mi><mn>2</mn></msup><mo>=</mo><msup><mi>b</mi><mn>2</mn></msup><mo>⁢</mo><mi>n</mi></semantics> 
+50,5,5,comment,4731036.0,483,483,, <semantics><msup><mi>b</mi><mn>2</mn></msup></semantics> 
+51,5,5,comment,4731036.0,4601348,4601348,, <semantics><msup><mi>b</mi><mn>2</mn></msup><mo>⁢</mo><mi>n</mi></semantics> 
+52,5,5,comment,4731036.0,599197,599197,, <semantics><msup><mi>b</mi><mn>2</mn></msup><mo>|</mo><msup><mi>a</mi><mn>2</mn></msup></semantics> 
+53,5,5,comment,4731036.0,74,74,, <semantics><mi>p</mi></semantics> 
+54,5,5,comment,4731036.0,368,368,, <semantics><mi>b</mi></semantics> 
+55,5,5,comment,4731036.0,74,74,, <semantics><mi>p</mi></semantics> 
+56,5,5,comment,4731036.0,3589,3589,, <semantics><msup><mi>a</mi><mn>2</mn></msup></semantics> 
+57,5,5,comment,4731036.0,60745,60745,, <semantics><mi>p</mi><mo>|</mo><mi>a</mi></semantics> 
+58,5,5,comment,4731036.0,24677,24677,," <semantics><mi>gcd</mi><mo>⁡</mo><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>)</mo><mo>=</mo><mn>1</mn></semantics> "
+59,5,5,comment,4731036.0,368,368,, <semantics><mi>b</mi></semantics> 
+60,5,5,comment,4731036.0,18671,18671,, <semantics><mi>b</mi><mo>=</mo><mo>-</mo><mn>1</mn></semantics> 
+61,5,5,comment,4731036.0,490,490,, <semantics><mi>b</mi><mo>=</mo><mn>1</mn></semantics> 
+62,5,5,comment,4731036.0,45827,45827,, <semantics><mfrac><mi>a</mi><mi>b</mi></mfrac></semantics> 
+63,7,5,answer,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+64,7,5,answer,,9130,9130,, <semantics><mi>p</mi><mo>/</mo><mi>q</mi></semantics> 
+65,7,5,answer,,454332,454332,, <semantics><mn>2</mn><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup><mo>=</mo><msup><mi>p</mi><mn>2</mn></msup></semantics> 
+66,7,5,answer,,5006,5006,, <semantics><msup><mi>q</mi><mn>2</mn></msup></semantics> 
+67,7,5,answer,,7594,7594,, <semantics><msup><mi>p</mi><mn>2</mn></msup></semantics> 
+68,7,5,answer,,7593,7593,, <semantics><mn>2</mn><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup></semantics> 
+69,7,5,answer,,7594,7594,, <semantics><msup><mi>p</mi><mn>2</mn></msup></semantics> 
+94,7,5,comment,5667515.0,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+95,16526,5,answer,,1294,1294,, <semantics><mi>π</mi></semantics> 
+96,16526,5,answer,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+97,16526,5,answer,,125192,125192,, <semantics><mn>1</mn><mo>+</mo><msqrt><mn>2</mn></msqrt></semantics> 
+98,16526,5,answer,,7599796,7599796,, <semantics><mi>v</mi><mo>=</mo><mn>1</mn><mo>+</mo><msqrt><mn>2</mn></msqrt></semantics> 
+99,16526,5,answer,,8229753,8229753,, <semantics><msup><mi>v</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mo>⁢</mo><mi>v</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn></semantics> 
+100,16526,5,answer,,8229754,8229754,, <semantics><mi>v</mi><mo>=</mo><mn>2</mn><mo>+</mo><mfrac><mn>1</mn><mi>v</mi></mfrac></semantics> 
+101,16526,5,answer,,8229755,8229755,, <semantics><mn>1</mn><mo>+</mo><msqrt><mn>2</mn></msqrt><mo>=</mo><mn>2</mn><mo>+</mo><mfrac><mfrac><mn>1</mn><mn>2</mn><mo>+</mo><mi>…</mi></mfrac></mfrac></semantics> 
+102,16526,5,answer,,125192,125192,, <semantics><mn>1</mn><mo>+</mo><msqrt><mn>2</mn></msqrt></semantics> 
+103,16526,5,answer,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+104,2077,5,answer,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+105,2077,5,answer,,51002,51002,, <semantics><mi>a</mi><mo>/</mo><mi>b</mi></semantics> 
+106,2077,5,answer,,3226203,3226203,, <semantics><msup><mi>a</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo>⁢</mo><msup><mi>b</mi><mn>2</mn></msup><mo>.</mo></semantics> 
+107,2077,5,answer,,3589,3589,, <semantics><msup><mi>a</mi><mn>2</mn></msup></semantics> 
+108,2077,5,answer,,2775866,2775866,, <semantics><mn>0</mn></semantics> 
+109,2077,5,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+110,2077,5,answer,,1253,1253,, <semantics><mn>4</mn></semantics> 
+111,2077,5,answer,,339,339,, <semantics><mn>5</mn></semantics> 
+112,2077,5,answer,,340,340,, <semantics><mn>6</mn></semantics> 
+113,2077,5,answer,,3052,3052,, <semantics><mn>9</mn></semantics> 
+114,2077,5,answer,,147068,147068,, <semantics><mn>2</mn><mo>⁢</mo><msup><mi>b</mi><mn>2</mn></msup></semantics> 
+115,2077,5,answer,,2775866,2775866,, <semantics><mn>0</mn></semantics> 
+116,2077,5,answer,,358,358,, <semantics><mn>2</mn></semantics> 
+117,2077,5,answer,,2663,2663,, <semantics><mn>8</mn></semantics> 
+118,2077,5,answer,,3589,3589,, <semantics><msup><mi>a</mi><mn>2</mn></msup></semantics> 
+119,2077,5,answer,,147068,147068,, <semantics><mn>2</mn><mo>⁢</mo><msup><mi>b</mi><mn>2</mn></msup></semantics> 
+120,2077,5,answer,,2775866,2775866,, <semantics><mn>0</mn></semantics> 
+121,2077,5,answer,,159,159,, <semantics><mi>a</mi></semantics> 
+122,2077,5,answer,,2775866,2775866,, <semantics><mn>0</mn></semantics> 
+123,2077,5,answer,,368,368,, <semantics><mi>b</mi></semantics> 
+124,2077,5,answer,,2775866,2775866,, <semantics><mn>0</mn></semantics> 
+125,2077,5,answer,,339,339,, <semantics><mn>5</mn></semantics> 
+126,2077,5,answer,,159,159,, <semantics><mi>a</mi></semantics> 
+127,2077,5,answer,,368,368,, <semantics><mi>b</mi></semantics> 
+128,2077,5,answer,,339,339,, <semantics><mn>5</mn></semantics> 
+129,2077,5,answer,,51002,51002,, <semantics><mi>a</mi><mo>/</mo><mi>b</mi></semantics> 
+150,16,5,answer,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+151,16,5,answer,,8229756,8229756,, <semantics><mi>R</mi><mo>=</mo><msqrt><mn>2</mn></msqrt><mo>=</mo><mfrac><mi>Q</mi><mi>D</mi></mfrac></semantics> 
+152,16,5,answer,,202,202,, <semantics><mi>Q</mi></semantics> 
+153,16,5,answer,,524,524,, <semantics><mi>D</mi></semantics> 
+154,16,5,answer,,277,277,, <semantics><mi>R</mi></semantics> 
+155,16,5,answer,,8229757,8229757,, <semantics><msup><mi>R</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo>=</mo><mfrac><msup><mi>Q</mi><mn>2</mn></msup><msup><mi>D</mi><mn>2</mn></msup></mfrac></semantics> 
+156,16,5,answer,,202,202,, <semantics><mi>Q</mi></semantics> 
+157,16,5,answer,,524,524,, <semantics><mi>D</mi></semantics> 
+158,16,5,answer,,73913,73913,, <semantics><msup><mi>Q</mi><mn>2</mn></msup></semantics> 
+159,16,5,answer,,358,358,, <semantics><mn>2</mn></semantics> 
+160,16,5,answer,,8229758,8229758,, <semantics><msup><mi>Q</mi><mn>2</mn></msup><mo>=</mo><msup><mn>2</mn><mn>1</mn></msup><mo>⁢</mo><mi>x</mi></semantics> 
+161,16,5,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+162,16,5,answer,,73913,73913,, <semantics><msup><mi>Q</mi><mn>2</mn></msup></semantics> 
+163,16,5,answer,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+164,16544,5,answer,,3375,3375,, <semantics><mi>ℤ</mi></semantics> 
+165,16544,5,answer,,1034895,1034895,, <semantics><mi>r</mi><mo>=</mo><msqrt><mi>n</mi></msqrt></semantics> 
+166,16544,5,answer,,286,286,, <semantics><mi></mi></semantics> 
+167,16544,5,answer,,993,993,, <semantics><mi>n</mi><mo>∈</mo><mi>ℕ</mi></semantics> 
+168,16544,5,answer,,286,286,, <semantics><mi></mi></semantics> 
+169,16544,5,answer,,7619721,7619721,," <semantics><mi>r</mi><mo>=</mo><mfrac><mi>A</mi><mi>B</mi></mfrac><mo>,</mo></semantics> "
+170,16544,5,answer,,7619722,7619722,, <semantics><mi>B</mi><mo>></mo><mn>0</mn><mo>.</mo></semantics> 
+171,16544,5,answer,,7619723,7619723,, <semantics><msqrt><mi>n</mi></msqrt><mo>=</mo><mfrac><mi>n</mi><msqrt><mi>n</mi></msqrt></mfrac><mo>⇒</mo><mfrac><mi>A</mi><mi>B</mi></mfrac><mo>=</mo><mfrac><mi>nB</mi><mi>A</mi></mfrac><mo>.</mo></semantics> 
+172,16544,5,answer,,710002,710002,, <semantics><mfrac><mi>b</mi><mi>B</mi></mfrac><mo>=</mo><mfrac><mi>a</mi><mi>A</mi></mfrac></semantics> 
+173,16544,5,answer,,710003,710003,, <semantics><mn> 0</mn><mo>≤</mo><mi>b</mi><mo><</mo><mi>B</mi><mo>.</mo></semantics> 
+174,16544,5,answer,,8229759,8229759,, <semantics><mi>B</mi><mo>∤</mo><mi>A</mi><mo>⇒</mo><mi>b</mi><mo>≠</mo><mn>0</mn><mo>⇒</mo><mfrac><mi>A</mi><mi>B</mi></mfrac><mo>=</mo><mfrac><mi>a</mi><mi>b</mi></mfrac></semantics> 
+175,16544,5,answer,,599,599,, <semantics><mi>B</mi></semantics> 
+176,16544,5,answer,,286,286,, <semantics><mi></mi></semantics> 
+177,16544,5,answer,,1034895,1034895,, <semantics><mi>r</mi><mo>=</mo><msqrt><mi>n</mi></msqrt></semantics> 
+178,16544,5,answer,,286,286,, <semantics><mi></mi></semantics> 
+179,16544,5,answer,,993,993,, <semantics><mi>n</mi><mo>∈</mo><mi>ℕ</mi></semantics> 
+180,16544,5,answer,,286,286,, <semantics><mi></mi></semantics> 
+181,16544,5,answer,,7619721,7619721,," <semantics><mi>r</mi><mo>=</mo><mfrac><mi>A</mi><mi>B</mi></mfrac><mo>,</mo></semantics> "
+182,16544,5,answer,,7619722,7619722,, <semantics><mi>B</mi><mo>></mo><mn>0</mn><mo>.</mo></semantics> 
+183,16544,5,answer,,8229760,8229760,, <semantics><msqrt><mi>n</mi></msqrt><mo>=</mo><mfrac><mi>n</mi><msqrt><mi>n</mi></msqrt></mfrac><mo>⇒</mo><mfrac><mi>A</mi><mi>B</mi></mfrac><mo>=</mo><mfrac><mi>nB</mi><mi>A</mi></mfrac><mo>⇒</mo><mi>B</mi><mo>|</mo><mi>A</mi></semantics> 
+184,16544,5,answer,,286,286,, <semantics><mi></mi></semantics> 
+185,16544,5,answer,,599,599,, <semantics><mi>B</mi></semantics> 
+186,16544,5,answer,,710001,710001,, <semantics><mfrac><mi>A</mi><mi>B</mi></mfrac><mo>=</mo><mfrac><mi>C</mi><mi>D</mi></mfrac><mo>⇒</mo><mfrac><mi>D</mi><mi>B</mi></mfrac><mo>=</mo><mfrac><mi>C</mi><mi>A</mi></mfrac><mo>.</mo></semantics> 
+187,16544,5,answer,,710002,710002,, <semantics><mfrac><mi>b</mi><mi>B</mi></mfrac><mo>=</mo><mfrac><mi>a</mi><mi>A</mi></mfrac></semantics> 
+188,16544,5,answer,,710003,710003,, <semantics><mn> 0</mn><mo>≤</mo><mi>b</mi><mo><</mo><mi>B</mi><mo>.</mo></semantics> 
+189,16544,5,answer,,710004,710004,, <semantics><mi>B</mi><mo>∤</mo><mi>D</mi><mo>⇒</mo><mi>b</mi><mo>≠</mo><mn>0</mn><mo>⇒</mo><mfrac><mi>A</mi><mi>B</mi></mfrac><mo>=</mo><mfrac><mi>a</mi><mi>b</mi></mfrac><mo> </mo></semantics> 
+190,16544,5,answer,,6753,6753,, <semantics><mi>B</mi><mo>.</mo></semantics> 
+191,16544,5,answer,,2087787,2087787,, <semantics><mi>B</mi><mo>∣</mo><mi>D</mi></semantics> 
+192,16544,5,answer,,286,286,, <semantics><mi></mi></semantics> 
+193,16544,5,answer,,430250,430250,," <semantics><mi>ℤ</mi><mo>,</mo></semantics> "
+194,16596,5,answer,,27694,27694,, <semantics><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mo>=</mo><mn>0</mn></semantics> 
+195,16596,5,answer,,41222,41222,, <semantics><mo>±</mo><msqrt><mn>2</mn></msqrt></semantics> 
+196,16596,5,answer,,45827,45827,, <semantics><mfrac><mi>a</mi><mi>b</mi></mfrac></semantics> 
+197,16596,5,answer,,110220,110220,, <semantics><mi>a</mi><mo>|</mo><mn>2</mn></semantics> 
+198,16596,5,answer,,240320,240320,, <semantics><mi>b</mi><mo>|</mo><mn>1</mn></semantics> 
+199,16596,5,answer,,436830,436830,," <semantics><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>∈</mo><mo>{</mo><mo>±</mo><mn>1</mn><mo>,</mo><mo>±</mo><mn>2</mn><mo>}</mo></semantics> "
+200,16596,5,answer,,3009275,3009275,," <semantics><mn>1</mn><mo>,</mo><mo>-</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>2</mn></semantics> "
+201,16596,5,answer,,27694,27694,, <semantics><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mo>=</mo><mn>0</mn></semantics> 
+202,16596,5,answer,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+203,760289,5,answer,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+204,760289,5,answer,,311436,311436,, <semantics><msqrt><mn>2</mn></msqrt><mo>=</mo><mi>a</mi><mo>/</mo><mi>b</mi></semantics> 
+205,760289,5,answer,,159,159,, <semantics><mi>a</mi></semantics> 
+206,760289,5,answer,,368,368,, <semantics><mi>b</mi></semantics> 
+207,760289,5,answer,,8229761,8229761,," <semantics><mi>S</mi><mo>=</mo><mo>{</mo><mi>k</mi><mo>⁢</mo><msqrt><mn>2</mn></msqrt><mo>∣</mo><mi>k</mi><mo>,</mo><mi>k</mi><mo>⁢</mo><msqrt><mn>2</mn></msqrt><mo>⁢</mo><mtext> are integers</mtext><mo>}</mo></semantics> "
+208,760289,5,answer,,3420929,3420929,, <semantics><mi>a</mi><mo>=</mo><mi>b</mi><mo>⁢</mo><msqrt><mn>2</mn></msqrt></semantics> 
+209,760289,5,answer,,706,706,, <semantics><mi>s</mi></semantics> 
+210,760289,5,answer,,3114765,3114765,, <semantics><mi>s</mi><mo>=</mo><mi>t</mi><mo>⁢</mo><msqrt><mn>2</mn></msqrt></semantics> 
+211,760289,5,answer,,8229762,8229762,, <semantics><mi>s</mi><mo>⁢</mo><msqrt><mn>2</mn></msqrt><mo>-</mo><mi>s</mi><mo>=</mo><mo>(</mo><mi>s</mi><mo>-</mo><mi>t</mi><mo>)</mo><mo>⁢</mo><msqrt><mn>2</mn></msqrt><mo>=</mo><mi>s</mi><mo>⁢</mo><mo>(</mo><msqrt><mn>2</mn></msqrt><mo>-</mo><mn>1</mn><mo>)</mo></semantics> 
+212,760289,5,answer,,706,706,, <semantics><mi>s</mi></semantics> 
+213,760289,5,answer,,706,706,, <semantics><mi>s</mi></semantics> 
+214,760289,5,answer,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+215,987288,5,answer,,177,177,, <semantics><mi>n</mi></semantics> 
+216,987288,5,answer,,3802,3802,, <semantics><msup><mi>n</mi><mn>2</mn></msup></semantics> 
+217,987288,5,answer,,177,177,, <semantics><mi>n</mi></semantics> 
+218,987288,5,answer,,8229763,8229763,, <semantics><msup><mo>(</mo><mn>2</mn><mo>⁢</mo><mi>k</mi><mo>)</mo><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo>⁢</mo><mo>(</mo><mn>2</mn><mo>⁢</mo><msup><mi>k</mi><mn>2</mn></msup><mo>)</mo></semantics> 
+219,987288,5,answer,,7812784,7812784,, <semantics><msup><mo>(</mo><mn>2</mn><mo>⁢</mo><mi>k</mi><mo>+</mo><mn>1</mn><mo>)</mo><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo>⁢</mo><mo>(</mo><mn>2</mn><mo>⁢</mo><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mo>⁢</mo><mi>k</mi><mo>)</mo><mo>+</mo><mn>1</mn></semantics> 
+220,987288,5,answer,,147065,147065,, <semantics><msqrt><mn>2</mn></msqrt><mo>=</mo><mfrac><mi>a</mi><mi>b</mi></mfrac></semantics> 
+221,987288,5,answer,,159,159,, <semantics><mi>a</mi></semantics> 
+222,987288,5,answer,,368,368,, <semantics><mi>b</mi></semantics> 
+223,987288,5,answer,,153564,153564,, <semantics><msup><mi>a</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo>⁢</mo><msup><mi>b</mi><mn>2</mn></msup></semantics> 
+224,987288,5,answer,,8229764,8229764,, <semantics><mi></mi><mo>⟹</mo><msup><mi>a</mi><mn>2</mn></msup></semantics> 
+225,987288,5,answer,,8229765,8229765,, <semantics><mi></mi><mo>=</mo><mn>2</mn><mo>⁢</mo><msup><mi>b</mi><mn>2</mn></msup></semantics> 
+226,987288,5,answer,,593721,593721,, <semantics><mi></mi><mo>⟹</mo><mi>a</mi></semantics> 
+227,987288,5,answer,,8229766,8229766,, <semantics><mi></mi><mo>⟹</mo><mi>a</mi><mo>=</mo><mn>2</mn><mo>⁢</mo><msub><mi>a</mi><mn>1</mn></msub></semantics> 
+228,987288,5,answer,,8229767,8229767,, <semantics><msub><mi>a</mi><mn>1</mn></msub><mo>∈</mo><msup><mi>ℕ</mi><mo>*</mo></msup></semantics> 
+229,987288,5,answer,,8229768,8229768,, <semantics><mi></mi><mo>⟹</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo>⁢</mo><msubsup><mi>a</mi><mn>1</mn><mn>2</mn></msubsup></semantics> 
+230,987288,5,answer,,368,368,, <semantics><mi>b</mi></semantics> 
+231,987288,5,answer,,377764,377764,, <semantics><mi>b</mi><mo>=</mo><mn>2</mn><mo>⁢</mo><msub><mi>b</mi><mn>1</mn></msub></semantics> 
+232,987288,5,answer,,8229769,8229769,, <semantics><msub><mi>b</mi><mn>1</mn></msub><mo>∈</mo><msup><mi>ℕ</mi><mo>*</mo></msup></semantics> 
+233,987288,5,answer,,17946,17946,," <semantics><mo>(</mo><msub><mi>a</mi><mn>1</mn></msub><mo>,</mo><msub><mi>b</mi><mn>1</mn></msub><mo>)</mo></semantics> "
+234,987288,5,answer,,1363900,1363900,, <semantics><msubsup><mi>a</mi><mn>1</mn><mn>2</mn></msubsup><mo>=</mo><mn>2</mn><mo>⁢</mo><msubsup><mi>b</mi><mn>1</mn><mn>2</mn></msubsup></semantics> 
+235,987288,5,answer,,4146,4146,, <semantics><msub><mo>(</mo><msub><mi>a</mi><mi>n</mi></msub><mo>)</mo><mi>n</mi><mo>∈</mo><mi>ℕ</mi></msub></semantics> 
+236,987288,5,answer,,12188,12188,, <semantics><msub><mo>(</mo><msub><mi>b</mi><mi>n</mi></msub><mo>)</mo><mi>n</mi><mo>∈</mo><mi>ℕ</mi></msub></semantics> 
+237,987288,5,answer,,19053,19053,, <semantics><msup><mi>ℕ</mi><mo>*</mo></msup></semantics> 
+238,987288,5,answer,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+239,987288,5,answer,,2775866,2775866,, <semantics><mn>0</mn></semantics> 
+240,987288,5,answer,,323934,323934,, <semantics><msub><mi>a</mi><mn>0</mn></msub><mo>=</mo><mi>a</mi></semantics> 
+241,987288,5,comment,3039067.0,8229770,8229770,, <semantics><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo>⁢</mo><msubsup><mi>a</mi><mn>1</mn><mn>2</mn></msubsup></semantics> 
+242,987288,5,comment,3039067.0,3589,3589,, <semantics><msup><mi>a</mi><mn>2</mn></msup></semantics> 
+243,987288,5,comment,3039067.0,483,483,, <semantics><msup><mi>b</mi><mn>2</mn></msup></semantics> 
+244,232342,5,answer,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+245,232342,5,answer,,42375,42375,, <semantics><mi>f</mi><mo>⁢</mo><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn></semantics> 
+246,232342,5,answer,,8229771,8229771,, <semantics><msqrt><mn>2</mn></msqrt><mo>=</mo><mfrac><mi>n</mi><mi>m</mi></mfrac></semantics> 
+247,232342,5,answer,,75046,75046,," <semantics><mi>n</mi><mo>,</mo><mi>m</mi><mo>∈</mo><mi>ℤ</mi></semantics> "
+248,232342,5,answer,,9020,9020,, <semantics><mi>m</mi><mo>≠</mo><mn>0</mn></semantics> 
+249,232342,5,answer,,8229772,8229772,, <semantics><mn>2</mn><mo>⁢</mo><msup><mi>m</mi><mn>2</mn></msup><mo>=</mo><msup><mi>n</mi><mn>2</mn></msup></semantics> 
+250,232342,5,answer,,177,177,, <semantics><mi>n</mi></semantics> 
+251,232342,5,answer,,4806,4806,, <semantics><mi>n</mi><mo>=</mo><mn>2</mn><mo>⁢</mo><mi>k</mi></semantics> 
+252,232342,5,answer,,7571,7571,, <semantics><mi>k</mi><mo>∈</mo><mi>ℤ</mi></semantics> 
+253,232342,5,answer,,8229773,8229773,, <semantics><msup><mi>m</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn><mo>⁢</mo><msup><mi>k</mi><mn>2</mn></msup></semantics> 
+254,232342,5,answer,,30254,30254,, <semantics><mfrac><mi>n</mi><mi>m</mi></mfrac></semantics> 
+255,232342,5,answer,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+256,232342,5,answer,,42375,42375,, <semantics><mi>f</mi><mo>⁢</mo><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn></semantics> 
+257,232342,5,answer,,9726,9726,, <semantics><mi>ℚ</mi><mo>⁢</mo><mo>[</mo><mi>x</mi><mo>]</mo></semantics> 
+258,232342,5,answer,,34915,34915,, <semantics><mi>ℚ</mi><mo>⁢</mo><mo>(</mo><msqrt><mn>2</mn></msqrt><mo>)</mo></semantics> 
+259,1323384,5,answer,,27694,27694,, <semantics><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mo>=</mo><mn>0</mn></semantics> 
+260,1323384,5,answer,,215738,215738,," <semantics><mo>±</mo><mn>1</mn><mo>,</mo><mo>±</mo><mn>2</mn></semantics> "
+261,1323384,5,answer,,41222,41222,, <semantics><mo>±</mo><msqrt><mn>2</mn></msqrt></semantics> 
+262,1695874,5,comment,5738782.0,254,254,, <semantics><mi>x</mi><mo>≠</mo><mi>y</mi></semantics> 
+263,2456731,5,answer,,8229774,8229774,," <semantics><mn>1</mn><mo><</mo><msqrt><mn>2</mn></msqrt><mo><</mo><mn>2</mn><mo>,</mo></semantics> "
+264,2456731,5,answer,,700,700,, <semantics><msqrt><mn>2</mn></msqrt></semantics> 
+265,2456731,5,answer,,625,625,, <semantics><mi>q</mi></semantics> 
+266,2456731,5,answer,,8229775,8229775,, <semantics><mi>p</mi><mo>=</mo><mi>q</mi><mo>⁢</mo><msqrt><mn>2</mn></msqrt></semantics> 
+267,2456731,5,answer,,8229776,8229776,, <semantics><mi>q</mi><mo><</mo><mi>p</mi><mo><</mo><mn>2</mn><mo>⁢</mo><mi>q</mi><mo>.</mo></semantics> 
+268,2456731,5,answer,,8229777,8229777,, <semantics><msup><mo>(</mo><mfrac><mn>2</mn><mo>⁢</mo><mi>q</mi><mo>-</mo><mi>p</mi><mi>p</mi><mo>-</mo><mi>q</mi></mfrac><mo>)</mo><mn>2</mn></msup><mo>=</mo><mfrac><mn>4</mn><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mo>⁢</mo><mi>p</mi><mo>⁢</mo><mi>q</mi><mo>+</mo><msup><mi>p</mi><mn>2</mn></msup><msup><mi>p</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mo>⁢</mo><mi>p</mi><mo>⁢</mo><mi>q</mi><mo>+</mo><msup><mi>q</mi><mn>2</mn></msup></mfrac><mo>=</mo><mfrac><mn>6</mn><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mo>⁢</mo><mi>p</mi><mo>⁢</mo><mi>q</mi><mn>3</mn><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mo>⁢</mo><mi>p</mi><mo>⁢</mo><mi>q</mi></mfrac><mo>=</mo><mn>2</mn></semantics> 
+269,2456731,5,answer,,231545,231545,, <semantics><mi>q</mi><mo><</mo><mi>p</mi><mo><</mo><mn>2</mn><mo>⁢</mo><mi>q</mi></semantics> 
+270,2456731,5,answer,,8229778,8229778,, <semantics><mn>0</mn><mo><</mo><mi>p</mi><mo>-</mo><mi>q</mi><mo><</mo><mi>q</mi></semantics> 
+271,2456731,5,answer,,8229779,8229779,," <semantics><mfrac><mn>2</mn><mo>⁢</mo><mi>q</mi><mo>-</mo><mi>p</mi><mi>p</mi><mo>-</mo><mi>q</mi></mfrac><mo>=</mo><msqrt><mn>2</mn></msqrt><mo>,</mo></semantics> "
+272,2456731,5,answer,,625,625,, <semantics><mi>q</mi></semantics> 
+273,2456731,5,answer,,177,177,, <semantics><mi>n</mi></semantics> 
+274,2456731,5,answer,,2759984,2759984,, <semantics><msup><mi>n</mi><mn>2</mn></msup><mo><</mo><mi>D</mi><mo><</mo><msup><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo><mn>2</mn></msup></semantics> 
+275,2456731,5,answer,,273944,273944,, <semantics><msqrt><mi>D</mi></msqrt></semantics> 
+276,2456731,5,answer,,274678,274678,, <semantics><mi>D</mi><mo>=</mo><mn>2</mn></semantics> 
+277,2456731,5,answer,,1115,1115,, <semantics><mi>n</mi><mo>=</mo><mn>1</mn></semantics> 
+278,2456731,5,answer,,273944,273944,, <semantics><msqrt><mi>D</mi></msqrt></semantics> 
+279,2456731,5,answer,,625,625,, <semantics><mi>q</mi></semantics> 
+280,2456731,5,answer,,74,74,, <semantics><mi>p</mi></semantics> 
+281,2456731,5,answer,,8229780,8229780,, <semantics><mfrac><mi>p</mi><mi>q</mi></mfrac><mo>=</mo><msqrt><mi>D</mi></msqrt></semantics> 
+282,2456731,5,answer,,8229781,8229781,, <semantics><msup><mi>p</mi><mn>2</mn></msup><mo>=</mo><mi>D</mi><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup></semantics> 
+283,2456731,5,answer,,8229782,8229782,, <semantics><msup><mi>n</mi><mn>2</mn></msup><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup><mo><</mo><msup><mi>p</mi><mn>2</mn></msup><mo><</mo><msup><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo><mn>2</mn></msup><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup></semantics> 
+284,2456731,5,answer,,901169,901169,, <semantics><mi>n</mi><mo>⁢</mo><mi>q</mi><mo><</mo><mi>p</mi><mo><</mo><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>⁢</mo><mi>q</mi></semantics> 
+285,2456731,5,answer,,8229783,8229783,, <semantics><mn>0</mn><mo><</mo><mi>p</mi><mo>-</mo><mi>n</mi><mo>⁢</mo><mi>q</mi><mo><</mo><mi>q</mi></semantics> 
+286,2456731,5,answer,,8229784,8229784,, <semantics><msup><mo>(</mo><mfrac><mi>D</mi><mo>⁢</mo><mi>q</mi><mo>-</mo><mi>p</mi><mo>⁢</mo><mi>n</mi><mi>p</mi><mo>-</mo><mi>q</mi><mo>⁢</mo><mi>n</mi></mfrac><mo>)</mo><mn>2</mn></msup><mo>=</mo><mfrac><msup><mi>D</mi><mn>2</mn></msup><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mo>⁢</mo><mi>D</mi><mo>⁢</mo><mi>p</mi><mo>⁢</mo><mi>q</mi><mo>⁢</mo><mi>n</mi><mo>+</mo><msup><mi>p</mi><mn>2</mn></msup><mo>⁢</mo><msup><mi>n</mi><mn>2</mn></msup><msup><mi>p</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mo>⁢</mo><mi>p</mi><mo>⁢</mo><mi>q</mi><mo>⁢</mo><mi>n</mi><mo>+</mo><msup><mi>q</mi><mn>2</mn></msup><mo>⁢</mo><msup><mi>n</mi><mn>2</mn></msup></mfrac><mo>=</mo><mfrac><msup><mi>D</mi><mn>2</mn></msup><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mo>⁢</mo><mi>D</mi><mo>⁢</mo><mi>p</mi><mo>⁢</mo><mi>q</mi><mo>⁢</mo><mi>n</mi><mo>+</mo><mi>D</mi><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup><mo>⁢</mo><msup><mi>n</mi><mn>2</mn></msup><mi>D</mi><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mo>⁢</mo><mi>p</mi><mo>⁢</mo><mi>q</mi><mo>⁢</mo><mi>n</mi><mo>+</mo><msup><mi>q</mi><mn>2</mn></msup><mo>⁢</mo><msup><mi>n</mi><mn>2</mn></msup></mfrac><mo>=</mo><mi>D</mi></semantics> 
+287,2456731,5,answer,,625,625,, <semantics><mi>q</mi></semantics> 
+288,2456731,5,answer,,273944,273944,, <semantics><msqrt><mi>D</mi></msqrt></semantics> 
+289,2456731,5,answer,,277099,277099,, <semantics><mi>D</mi><mo>≥</mo><mn>0</mn></semantics> 
+290,2456731,5,answer,,177,177,, <semantics><mi>n</mi></semantics> 
+291,2456731,5,answer,,8229785,8229785,, <semantics><msup><mi>n</mi><mn>2</mn></msup><mo>≤</mo><mi>D</mi><mo><</mo><msup><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo><mn>2</mn></msup></semantics> 
+292,2456731,5,answer,,177,177,, <semantics><mi>n</mi></semantics> 
+293,2456731,5,answer,,8229786,8229786,, <semantics><msup><mo>(</mo><mn>1</mn><mo>+</mo><mi>D</mi><mo>)</mo><mn>2</mn></msup><mo>=</mo><mi>D</mi><mo>+</mo><mo>(</mo><mn>1</mn><mo>+</mo><mi>D</mi><mo>+</mo><msup><mi>D</mi><mn>2</mn></msup><mo>)</mo></semantics> 
+294,2456731,5,answer,,8229787,8229787,, <semantics><mi>D</mi><mo><</mo><msup><mo>(</mo><mn>1</mn><mo>+</mo><mi>D</mi><mo>)</mo><mn>2</mn></msup></semantics> 
+295,2456731,5,answer,,20,20,, <semantics><mi>m</mi></semantics> 
+296,2456731,5,answer,,8229788,8229788,, <semantics><mi>D</mi><mo><</mo><msup><mi>m</mi><mn>2</mn></msup><mo>.</mo></semantics> 
+297,2456731,5,answer,,9020,9020,, <semantics><mi>m</mi><mo>≠</mo><mn>0</mn></semantics> 
+298,2456731,5,answer,,8229789,8229789,, <semantics><mi>D</mi><mo>≥</mo><msup><mn>0</mn><mn>2</mn></msup></semantics> 
+299,2456731,5,answer,,3368,3368,, <semantics><mi>m</mi><mo>≥</mo><mn>1</mn></semantics> 
+300,2456731,5,answer,,1042037,1042037,, <semantics><mi>n</mi><mo>=</mo><mi>m</mi><mo>-</mo><mn>1</mn></semantics> 
+301,2456731,5,answer,,8229785,8229785,, <semantics><msup><mi>n</mi><mn>2</mn></msup><mo>≤</mo><mi>D</mi><mo><</mo><msup><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo><mn>2</mn></msup></semantics> 
+302,2456731,5,answer,,153947,153947,, <semantics><mn>0</mn><mo>≤</mo><mi>m</mi><mo><</mo><mi>n</mi></semantics> 
+303,2456731,5,answer,,8229790,8229790,, <semantics><mn>1</mn><mo>≤</mo><mi>m</mi><mo>+</mo><mn>1</mn><mo>≤</mo><mi>n</mi></semantics> 
+304,2456731,5,answer,,8229791,8229791,, <semantics><msup><mo>(</mo><mi>m</mi><mo>+</mo><mn>1</mn><mo>)</mo><mn>2</mn></msup><mo>≤</mo><msup><mi>n</mi><mn>2</mn></msup></semantics> 
+305,2456731,5,answer,,8229785,8229785,, <semantics><msup><mi>n</mi><mn>2</mn></msup><mo>≤</mo><mi>D</mi><mo><</mo><msup><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo><mn>2</mn></msup></semantics> 
+306,2456731,5,answer,,8229792,8229792,, <semantics><msup><mi>m</mi><mn>2</mn></msup><mo>≤</mo><mi>D</mi><mo><</mo><msup><mo>(</mo><mi>m</mi><mo>+</mo><mn>1</mn><mo>)</mo><mn>2</mn></msup></semantics> 
+307,2456731,5,answer,,7908,7908,, <semantics><mi>m</mi><mo><</mo><mi>n</mi></semantics> 
+308,2456731,5,answer,,8229793,8229793,, <semantics><mi>D</mi><mo><</mo><msup><mo>(</mo><mi>m</mi><mo>+</mo><mn>1</mn><mo>)</mo><mn>2</mn></msup><mo>≤</mo><msup><mi>n</mi><mn>2</mn></msup><mo>≤</mo><mi>D</mi></semantics> 
+309,2456731,5,answer,,12866,12866,, <semantics><mi>m</mi><mo>></mo><mi>n</mi></semantics> 
+310,2456731,5,answer,,25993,25993,, <semantics><mi>m</mi><mo>=</mo><mi>n</mi></semantics> 
+311,2456731,5,answer,,277099,277099,, <semantics><mi>D</mi><mo>≥</mo><mn>0</mn></semantics> 
+312,2456731,5,answer,,273944,273944,, <semantics><msqrt><mi>D</mi></msqrt></semantics> 
+313,2456731,5,answer,,273944,273944,, <semantics><msqrt><mi>D</mi></msqrt></semantics> 
+314,2456731,5,answer,,8229794,8229794,, <semantics><mfrac><mi>n</mi><mo>⁢</mo><mi>p</mi><mi>n</mi><mo>⁢</mo><mi>q</mi></mfrac><mo>=</mo><msqrt><mi>D</mi></msqrt></semantics> 
+315,2456731,5,answer,,8229795,8229795,, <semantics><mfrac><mi>D</mi><mo>⁢</mo><mi>q</mi><mi>p</mi></mfrac><mo>=</mo><msqrt><mi>D</mi></msqrt><mo>.</mo></semantics> 
+316,2456731,5,answer,,259066,259066,, <semantics><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>=</mo><mfrac><mi>c</mi><mi>d</mi></mfrac></semantics> 
+317,2456731,5,answer,,47987,47987,, <semantics><mi>d</mi><mo>≠</mo><mi>b</mi></semantics> 
+318,2456731,5,answer,,8229796,8229796,, <semantics><mfrac><mi>a</mi><mo>-</mo><mi>c</mi><mi>b</mi><mo>-</mo><mi>d</mi></mfrac><mo>=</mo><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>.</mo></semantics> 
+319,2456731,5,answer,,8229797,8229797,, <semantics><mi>p</mi><mo>=</mo><mi>q</mi><msqrt><mi>D</mi></msqrt><mo>)</mo><mo>:</mo></semantics> 
+320,2456731,5,answer,,8229798,8229798,, <semantics><mn>0</mn><mo><</mo><mo>(</mo><mi>p</mi><mo>+</mo><mi>q</mi><mo>⁢</mo><msqrt><mi>D</mi></msqrt><mo>)</mo><mo>⁢</mo><mo>(</mo><msqrt><mi>D</mi></msqrt><mo>-</mo><mi>n</mi><mo>)</mo><mo>=</mo><mo>(</mo><mi>q</mi><mo>⁢</mo><mi>D</mi><mo>-</mo><mi>n</mi><mo>⁢</mo><mi>p</mi><mo>)</mo><mo>+</mo><mo>(</mo><mi>p</mi><mo>-</mo><mi>n</mi><mo>⁢</mo><mi>q</mi><mo>)</mo><mo>⁢</mo><msqrt><mi>D</mi></msqrt></semantics> 
+321,2456731,5,answer,,8229799,8229799,, <semantics><msup><mo>(</mo><mi>q</mi><mo>⁢</mo><mi>D</mi><mo>-</mo><mi>n</mi><mo>⁢</mo><mi>p</mi><mo>)</mo><mn>2</mn></msup><mo>-</mo><mi>D</mi><mo>⁢</mo><msup><mo>(</mo><mi>p</mi><mo>-</mo><mi>n</mi><mo>⁢</mo><mi>q</mi><mo>)</mo><mn>2</mn></msup><mo>=</mo><mn>0</mn><mo>.</mo></semantics> 
+322,2456731,5,answer,,8229800,8229800,, <semantics><mi>p</mi><mo>-</mo><mi>n</mi><mo>⁢</mo><mi>q</mi><mo>=</mo><mi>q</mi><mo>⁢</mo><mo>(</mo><msqrt><mi>D</mi></msqrt><mo>-</mo><mi>n</mi><mo>)</mo><mo><</mo><mi>q</mi><mo>.</mo></semantics> 
+323,2456731,5,answer,,8229801,8229801,, <semantics><mn>0</mn><mo><</mo><msqrt><mi>D</mi></msqrt><mo>-</mo><mi>n</mi><mo><</mo><mn>1</mn><mo>.</mo></semantics> 
+324,2974425,5,answer,,358,358,, <semantics><mn>2</mn></semantics> 
+325,2974425,5,answer,,8229802,8229802,, <semantics><msup><mo>(</mo><munderover><mo>∑</mo><mi>k</mi><mo>=</mo><mi>t</mi><mi>N</mi></munderover><msub><mi>b</mi><mi>k</mi></msub><mo>⁢</mo><msup><mn>2</mn><mi>k</mi></msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mi>B</mi><mo>⁢</mo><msup><mn>2</mn><mn>2</mn><mo>⁢</mo><mi>t</mi><mo>+</mo><mn>1</mn></msup><mo>+</mo><msub><mi>b</mi><mi>t</mi></msub><mo>⁢</mo><msup><mn>2</mn><mn>2</mn><mo>⁢</mo><mi>t</mi></msup></semantics> 
+326,2974425,5,answer,,481810,481810,, <semantics><msqrt><mn>2</mn></msqrt><mo>=</mo><mfrac><mi>p</mi><mi>q</mi></mfrac></semantics> 
+327,2974425,5,answer,,454332,454332,, <semantics><mn>2</mn><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup><mo>=</mo><msup><mi>p</mi><mn>2</mn></msup></semantics> 
+328,2974425,5,answer,,358,358,, <semantics><mn>2</mn></semantics> 
+329,2974425,5,answer,,20,20,, <semantics><mi>m</mi></semantics> 
+330,2974425,5,answer,,358,358,, <semantics><mn>2</mn></semantics> 
+331,2974425,5,answer,,11766,11766,, <semantics><mi>m</mi><mo>+</mo><mn>1</mn></semantics> 
+332,2974425,5,answer,,7593,7593,, <semantics><mn>2</mn><mo>⁢</mo><msup><mi>q</mi><mn>2</mn></msup></semantics> 
+333,2974425,5,answer,,7594,7594,, <semantics><msup><mi>p</mi><mn>2</mn></msup></semantics> 
+334,2974425,5,answer,,74,74,, <semantics><mi>p</mi></semantics> 
+335,2974425,5,answer,,625,625,, <semantics><mi>q</mi></semantics> 
+336,8,8,question,,8229803,8229803,,
+337,396100,8,answer,,74,74,, <semantics><mi>p</mi></semantics> 
+338,396100,8,answer,,74,74,, <semantics><mi>p</mi></semantics> 
+339,396100,8,answer,,7594,7594,, <semantics><msup><mi>p</mi><mn>2</mn></msup></semantics> 
+340,396100,8,answer,,8229804,8229804,, <semantics><msub><mn>20.00.00.00.00</mn><mn>120</mn></msub><mo>=</mo><mn>4147200000</mn><mo>.</mo></semantics> 
+341,396100,8,answer,,8229805,8229805,, <semantics><msub><mi>T</mi><mi>n</mi><mo>+</mo><mn>1</mn></msub><mo>=</mo><mi>a</mi><mo>.</mo><msub><mi>T</mi><mi>n</mi></msub><mo>-</mo><msub><mi>T</mi><mi>n</mi><mo>-</mo><mn>1</mn></msub></semantics> 
+342,396100,8,answer,,122176,122176,, <semantics><msub><mi>T</mi><mi>p</mi></msub></semantics> 
+343,396100,8,answer,,8229806,8229806,," <semantics><mi>a</mi><mo>,</mo><mi>p</mi><mo>,</mo><msub><mi>T</mi><mn>0</mn></msub><mo>,</mo><msub><mi>T</mi><mn>1</mn></msub></semantics> "
+344,396100,8,answer,,8229807,8229807,," <semantics><msub><mi>T</mi><mi>m</mi><mo>+</mo><mi>n</mi></msub><mo>=</mo><mi>a</mi><mo>⁢</mo><mtext>=m ⋅T_n - T_n-m</mtext><mi>F</mi><mo>⁢</mo><mi>o</mi><mo>⁢</mo><mi>r</mi><mo>⁢</mo><mi>m</mi><mo>⁢</mo><mi>u</mi><mo>⁢</mo><mi>l</mi><mo>⁢</mo><mi>a</mi><mo>⁢</mo><mi>#</mi><mo>⁢</mo><mn>23</mn><mo>:</mo><mtext>=⁢U(n)(⁢/ZnZ)×</mtext><mo>⁢</mo><mi>F</mi><mo>⁢</mo><mi>o</mi><mo>⁢</mo><mi>r</mi><mo>⁢</mo><mi>m</mi><mo>⁢</mo><mi>u</mi><mo>⁢</mo><mi>l</mi><mo>⁢</mo><mi>a</mi><mo>⁢</mo><mi>#</mi><mo>⁢</mo><mn>24</mn><mo>:</mo><mtext>=U∖R{(x,0)|≤x0}</mtext></semantics> "
+345,396100,8,answer,,8229808,8229808,, <semantics><mi>T</mi><mo>⁢</mo><mo>(</mo><mn>2</mn><mo>⁢</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>T</mi><mo>⁢</mo><msup><mo>(</mo><mi>x</mi><mo>)</mo><mn>2</mn></msup><mo>-</mo><mn>2</mn></semantics> 
+346,396100,8,answer,,30783,30783,, <semantics><msup><mi>a</mi><mi>m</mi></msup></semantics> 
+347,396100,8,answer,,8229809,8229809,, <semantics><msub><mi>f</mi><mn>14400</mn></msub></semantics> 
+348,319,8,answer,,2717,2717,, <semantics><msqrt><mn>5</mn></msqrt></semantics> 
+349,319,8,answer,,455547,455547,, <semantics><mn>1</mn><mo>+</mo><msqrt><mn>5</mn></msqrt></semantics> 
+350,319,8,answer,,8229810,8229810,, <semantics><mi>F</mi><mo>⁢</mo><mo>(</mo><mn>2</mn><mo>⁢</mo><mi>n</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>=</mo><mi>F</mi><mo>⁢</mo><msup><mo>(</mo><mi>n</mi><mo>)</mo><mn>2</mn></msup><mo>+</mo><mi>F</mi><mo>⁢</mo><msup><mo>(</mo><mi>n</mi><mo>-</mo><mn>1</mn><mo>)</mo><mn>2</mn></msup></semantics> 
+351,319,8,answer,,8229811,8229811,, <semantics><mi>F</mi><mo>⁢</mo><mo>(</mo><mn>2</mn><mo>⁢</mo><mi>n</mi><mo>)</mo><mo>=</mo><mo>(</mo><mn>2</mn><mo>⁢</mo><mi>F</mi><mo>⁢</mo><mo>(</mo><mi>n</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>+</mo><mi>F</mi><mo>⁢</mo><mo>(</mo><mi>n</mi><mo>)</mo><mo>)</mo><mo>×</mo><mi>F</mi><mo>⁢</mo><mo>(</mo><mi>n</mi><mo>)</mo></semantics> 
+352,319,8,answer,,49526,49526,, <semantics><mi>F</mi><mo>⁢</mo><mo>(</mo><mi>k</mi><mo>)</mo></semantics> 
+353,319,8,answer,,83,83,, <semantics><mi>k</mi></semantics> 
+354,931,8,answer,,792223,792223,, <semantics><msup><mo>(</mo><mn>1</mn><mn>1</mn><mn>1</mn><mn>0</mn></mtable><mo>)</mo><mi>n</mi></msup><mo>=</mo><mo>(</mo><msub><mi>F</mi><mi>n</mi><mo>+</mo><mn>1</mn></msub><msub><mi>F</mi><mi>n</mi></msub><msub><mi>F</mi><mi>n</mi></msub><msub><mi>F</mi><mi>n</mi><mo>-</mo><mn>1</mn></msub></mtable><mo>)</mo></semantics> 
+355,931,8,answer,,177,177,, <semantics><mi>n</mi></semantics> 
+356,17,8,answer,,8229812,8229812,, <semantics><mi>F</mi><mo>⁢</mo><mo>(</mo><mi>n</mi><mo>)</mo><mo>=</mo><mfrac><msup><mi>φ</mi><mi>n</mi></msup><mo>-</mo><msup><mo>(</mo><mn>1</mn><mo>-</mo><mi>φ</mi><mo>)</mo><mi>n</mi></msup><msqrt><mn>5</mn></msqrt></mfrac></semantics> 
+358,17,8,comment,20.0,8229813,8229813,, <semantics><mo>|</mo><mn>1</mn><mo>-</mo><mi>φ</mi><mo>|</mo><mo><</mo><mn>1</mn></semantics> 
+359,17,8,comment,20.0,8229814,8229814,, <semantics><mi>F</mi><mo>⁢</mo><mo>(</mo><mi>n</mi><mo>)</mo><mo>=</mo><mfrac><msup><mi>φ</mi><mi>n</mi></msup><msqrt><mn>5</mn></msqrt></mfrac></semantics> 
+360,11,11,title,,4799524,4799524,, <semantics><mn>0.999999999</mn><mo>⁢</mo><mi>⋯</mi><mo>=</mo><mn>1</mn></semantics> 
+361,11,11,question,,4799524,4799524,, <semantics><mn>0.999999999</mn><mo>⁢</mo><mi>⋯</mi><mo>=</mo><mn>1</mn></semantics> 
+362,49,11,answer,,8192672,8192672,, <semantics><mn>.99999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+363,49,11,answer,,139407,139407,, <semantics><mn>.9</mn></semantics> 
+364,49,11,answer,,3084887,3084887,, <semantics><mn>.99</mn></semantics> 
+365,49,11,answer,,2297938,2297938,, <semantics><mn>.999</mn></semantics> 
+366,49,11,answer,,2017348,2017348,, <semantics><mn>.9999</mn></semantics> 
+367,49,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+368,49,11,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+369,49,11,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+370,49,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+371,49,11,answer,,137212,137212,, <semantics><msup><mn>10</mn><mo>-</mo><mi>k</mi></msup></semantics> 
+372,49,11,answer,,83,83,, <semantics><mi>k</mi></semantics> 
+373,49,11,answer,,83,83,, <semantics><mi>k</mi></semantics> 
+374,49,11,answer,,1087530,1087530,, <semantics><mn>.99999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>1</mn></semantics> 
+375,49,11,answer,,8229815,8229815,, <semantics><mn>1.0000</mn><mo>⁢</mo><mi>…</mi><mo>-</mo><mn>.99999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>.00000</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>0</mn></semantics> 
+376,49,11,answer,,8229816,9372320,v, <semantics><mn>1.0</mn><mo>-</mo><mn>.9</mn><mo>=</mo><mn>.1</mn></semantics> 
+377,49,11,answer,,8229817,8229817,, <semantics><mn>1.00</mn><mo>-</mo><mn>.99</mn><mo>=</mo><mn>.01</mn></semantics> 
+378,49,11,answer,,8229818,8229818,, <semantics><mn>1.000</mn><mo>-</mo><mn>.999</mn><mo>=</mo><mn>.001</mn></semantics> 
+379,49,11,answer,,4669,4669,, <semantics><mi>…</mi></semantics> 
+380,49,11,answer,,8229819,8229819,, <semantics><mn>1.000</mn><mo>⁢</mo><mi>…</mi><mo>-</mo><mn>.99999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>.000</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>0</mn></semantics> 
+381,60,11,answer,,8229820,8229820,, <semantics><mn>0.9999</mn><mo>⁢</mo><mi>…</mi><mo>≠</mo><mn>1</mn></semantics> 
+382,60,11,answer,,8229821,8229821,, <semantics><mn>0.9999</mn><mo>⁢</mo><mi>…</mi><mo><</mo><mn>1</mn></semantics> 
+383,60,11,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+384,60,11,answer,,8229822,8229822,, <semantics><mn>0.9999</mn><mo>⁢</mo><mi>…</mi><mo><</mo><mi>x</mi><mo><</mo><mn>1</mn></semantics> 
+385,60,11,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+386,60,11,answer,,3052,3052,, <semantics><mn>9</mn></semantics> 
+387,60,11,answer,,5408130,5408130,, <semantics><mi>x</mi><mo>=</mo><mn>0.9999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+388,60,11,answer,,8229823,8229823,, <semantics><mi>x</mi><mo><</mo><mn>0.9999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+389,60,11,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+390,60,11,answer,,358663,358663,, <semantics><mn>0.9999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+391,60,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+392,44,11,answer,,2989525,2989525,, <semantics><mn>1</mn><mo>/</mo><mn>3</mn><mo>=</mo><mn>0.3333</mn><mo>⁢</mo><mi>…</mi></semantics> 
+393,44,11,answer,,8229824,8229824,, <semantics><mn>0.9999</mn><mo>⁢</mo><mi>…</mi><mo>⁢</mo><mi>×</mi><mo>⁢</mo><mn>10</mn></semantics> 
+394,44,11,answer,,8229825,8229825,, <semantics><mn>9.999</mn><mo>⁢</mo><mi>…</mi><mo>-</mo><mn>0.999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>9</mn></semantics> 
+395,44,11,answer,,8229826,8229826,, <semantics><mn>0.999</mn><mo>⁢</mo><mi>…</mi><mo>⁢</mo><mi>×</mi><mo>⁢</mo><mn>10</mn><mo>=</mo><mn>9.999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+396,116,11,answer,,8229827,8229827,, <semantics><mi>a</mi><mo>+</mo><mi>a</mi><mo>⋅</mo><mi>r</mi><mo>+</mo><mi>a</mi><mo>⋅</mo><msup><mi>r</mi><mn>2</mn></msup><mo>+</mo><mi>a</mi><mo>⋅</mo><msup><mi>r</mi><mn>3</mn></msup><mo>+</mo><mi>⋯</mi></semantics> 
+397,116,11,answer,,125650,125650,, <semantics><mfrac><mi>a</mi><mn>1</mn><mo>-</mo><mi>r</mi></mfrac></semantics> 
+398,116,11,answer,,22953,22953,, <semantics><mo>|</mo><mi>r</mi><mo>|</mo><mo><</mo><mn>1</mn></semantics> 
+399,116,11,answer,,8229828,8229828,, <semantics><mn>0.99999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mfrac><mn>9</mn><mn>10</mn></mfrac><mo>+</mo><mfrac><mn>9</mn><msup><mn>10</mn><mn>2</mn></msup></mfrac><mo>+</mo><mfrac><mn>9</mn><msup><mn>10</mn><mn>3</mn></msup></mfrac><mo>+</mo><mi>⋯</mi></semantics> 
+400,116,11,answer,,991401,991401,, <semantics><mi>a</mi><mo>=</mo><mfrac><mn>9</mn><mn>10</mn></mfrac></semantics> 
+401,116,11,answer,,1211259,1211259,, <semantics><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mn>10</mn></mfrac></semantics> 
+402,116,11,answer,,8229829,8229829,, <semantics><mfrac><mfrac><mn>9</mn><mn>10</mn></mfrac><mn>1</mn><mo>-</mo><mfrac><mn>1</mn><mn>10</mn></mfrac></mfrac><mo>=</mo><mfrac><mfrac><mn>9</mn><mn>10</mn></mfrac><mfrac><mn>9</mn><mn>10</mn></mfrac></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></semantics> 
+404,116,11,comment,3853304.0,5742,5742,, <semantics><mfrac><mn>1</mn><mn>10</mn></mfrac></semantics> 
+405,87,11,answer,,725320,725320,, <semantics><mi>x</mi><mo>=</mo><mn>0.999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+406,87,11,answer,,725321,725321,, <semantics><mn>10</mn><mo>⁢</mo><mi>x</mi><mo>=</mo><mn>9.999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+407,87,11,answer,,725322,725322,, <semantics><mn>10</mn><mo>⁢</mo><mi>x</mi><mo>-</mo><mi>x</mi><mo>=</mo><mn>9.999</mn><mo>⁢</mo><mi>…</mi><mo>-</mo><mn>0.999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+408,87,11,answer,,725323,725323,, <semantics><mn>9</mn><mo>⁢</mo><mi>x</mi><mo>=</mo><mn>9</mn></semantics> 
+409,87,11,answer,,1567,1567,, <semantics><mi>x</mi><mo>=</mo><mn>1</mn></semantics> 
+410,87,11,answer,,478081,478081,, <semantics><mn>0.999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>1</mn></semantics> 
+413,87,11,comment,4236455.0,417243,417243,, <semantics><mn>10</mn><mo>⁢</mo><mi>x</mi><mo>=</mo><mn>9</mn><mo>+</mo><mi>x</mi></semantics> 
+414,87,11,comment,4236455.0,1567,1567,, <semantics><mi>x</mi><mo>=</mo><mn>1</mn></semantics> 
+415,800827,11,answer,,1726579,1726579,, <semantics><mn>0.999999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+416,800827,11,answer,,8229832,8229832,," <semantics><munderover><mo>∑</mo><mi>n</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><mn>9</mn><mo>⁢</mo><msup><mo>(</mo><mfrac><mn>1</mn><mn>10</mn></mfrac><mo>)</mo><mi>n</mi></msup><mo>,</mo></semantics> "
+417,800827,11,answer,,6748,6748,, <semantics><mn>1</mn><mo>.</mo></semantics> 
+418,800827,11,answer,,372466,372466,, <semantics><mn>0.99999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+419,800827,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+420,800827,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+421,800827,11,answer,,15441,15441,," <semantics><mn>1</mn><mo>,</mo></semantics> "
+422,800827,11,answer,,2677644,2677644,," <semantics><mi>r</mi><mo><</mo><mn>1</mn><mo>,</mo></semantics> "
+423,800827,11,answer,,8229833,8229833,, <semantics><munderover><mo>∑</mo><mi>n</mi><mo>=</mo><mn>1</mn><mi>k</mi></munderover><mn>9</mn><mo>⁢</mo><msup><mo>(</mo><mfrac><mn>1</mn><mn>10</mn></mfrac><mo>)</mo><mi>n</mi></msup></semantics> 
+424,800827,11,answer,,13382,13382,, <semantics><mi>k</mi><mo>.</mo></semantics> 
+425,800827,11,answer,,6322584,6322584,, <semantics><mn>0.99</mn><mo>⁢</mo><mi>…</mi><mo>⁢</mo><mn>9</mn></semantics> 
+426,800827,11,answer,,83,83,, <semantics><mi>k</mi></semantics> 
+427,800827,11,answer,,170354,170354,," <semantics><mn>9</mn><mo>,</mo></semantics> "
+428,800827,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+429,800827,11,answer,,8229834,8229834,, <semantics><mfrac><mn>1</mn><msup><mn>10</mn><mi>k</mi></msup></mfrac><mo>.</mo></semantics> 
+430,800827,11,answer,,1164898,1164898,," <semantics><mn>0</mn><mo><</mo><mi>r</mi><mo><</mo><mn>1</mn><mo>,</mo></semantics> "
+431,800827,11,answer,,83,83,, <semantics><mi>k</mi></semantics> 
+432,800827,11,answer,,8229835,8229835,," <semantics><mfrac><mn>1</mn><msup><mn>10</mn><mi>k</mi></msup></mfrac><mo><</mo><mn>1</mn><mo>-</mo><mi>r</mi><mo>,</mo></semantics> "
+433,800827,11,answer,,8229836,8229836,, <semantics><mn>1</mn><mo>-</mo><mfrac><mn>1</mn><msup><mn>10</mn><mi>k</mi></msup></mfrac><mo>></mo><mi>r</mi><mo>.</mo></semantics> 
+434,800827,11,answer,,8229837,8229837,, <semantics><munderover><mo>∑</mo><mi>n</mi><mo>=</mo><mn>1</mn><mi>k</mi></munderover><mn>9</mn><mo>⁢</mo><msup><mo>(</mo><mfrac><mn>1</mn><mn>10</mn></mfrac><mo>)</mo><mi>n</mi></msup><mo>></mo><mi>r</mi><mo>.</mo></semantics> 
+435,800827,11,answer,,180,180,, <semantics><mi>r</mi></semantics> 
+436,800827,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+437,800827,11,answer,,15441,15441,," <semantics><mn>1</mn><mo>,</mo></semantics> "
+438,800827,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+439,800827,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+440,800827,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+443,110,11,comment,3853415.0,8229839,8229839,, <semantics><mn>9</mn><mo>⁢</mo><mi>ε</mi><mo>=</mo><mi>ε</mi></semantics> 
+444,43,11,answer,,1087539,1087539,, <semantics><msup><mn>9</mn><mo>′</mo></msup><mo>⁢</mo><mi>s</mi></semantics> 
+445,43,11,answer,,478079,478079,, <semantics><mn>0.999</mn></semantics> 
+446,43,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+447,43,11,answer,,1087539,1087539,, <semantics><msup><mn>9</mn><mo>′</mo></msup><mo>⁢</mo><mi>s</mi></semantics> 
+448,43,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+449,31,11,answer,,8229840,8229840,, <semantics><mn>3</mn></semantics> 
+450,31,11,answer,,8229841,8229841,, <semantics><mn>0.333</mn><mo>⁢</mo><mi>…</mi><mo>×</mo><mn>3</mn><mo>=</mo><mn>1</mn></semantics> 
+451,31,11,answer,,478081,478081,, <semantics><mn>0.999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>1</mn></semantics> 
+452,30,11,answer,,143535,143535,, <semantics><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mo><mn>3</mn><mo>¯</mo></mover></semantics> 
+453,30,11,answer,,8229842,8229842,, <semantics><mn>3</mn><mo>×</mo><mo>(</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>)</mo><mo>=</mo><mo>(</mo><mn>0</mn><mo>.</mo><mo><mn>3</mn><mo>¯</mo></mover><mo>)</mo><mo>×</mo><mn>3</mn></semantics> 
+454,30,11,answer,,4318541,4318541,, <semantics><mfrac><mn>3</mn><mn>3</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mo><mn>9</mn><mo>¯</mo></mover></semantics> 
+455,30,11,comment,4240074.0,1726579,1726579,, <semantics><mn>0.999999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+456,932391,11,answer,,8229843,8229843,, <semantics><mn>.99</mn><mo>⁢</mo><mi>…</mi><mo>≠</mo><mn>1</mn></semantics> 
+457,932391,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+458,932391,11,answer,,93,93,, <semantics><mi>α</mi></semantics> 
+459,932391,11,answer,,8229844,8229844,, <semantics><mn>.99</mn><mo>⁢</mo><mi>…</mi></semantics> 
+460,932391,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+461,932391,11,answer,,19831,19831,, <semantics><mi>α</mi><mo><</mo><mn>1</mn></semantics> 
+462,932391,11,answer,,57,57,, <semantics><mi>β</mi></semantics> 
+463,932391,11,answer,,3783352,3783352,, <semantics><mi>α</mi><mo><</mo><mi>β</mi><mo><</mo><mn>1</mn></semantics> 
+464,932391,11,answer,,31239,31239,, <semantics><mi>α</mi><mo><</mo><mi>β</mi></semantics> 
+465,932391,11,answer,,57,57,, <semantics><mi>β</mi></semantics> 
+466,932391,11,answer,,93,93,, <semantics><mi>α</mi></semantics> 
+467,932391,11,answer,,8229844,8229844,, <semantics><mn>.99</mn><mo>⁢</mo><mi>…</mi></semantics> 
+468,932391,11,answer,,57,57,, <semantics><mi>β</mi></semantics> 
+469,932391,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+470,932391,11,answer,,57,57,, <semantics><mi>β</mi></semantics> 
+471,932391,11,answer,,8229844,8229844,, <semantics><mn>.99</mn><mo>⁢</mo><mi>…</mi></semantics> 
+472,932391,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+473,1613912,11,answer,,914595,914595,, <semantics><mn>0.9999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>1</mn></semantics> 
+474,1613912,11,answer,,8229845,8229845,, <semantics><mn>0.99</mn><mo>⁢</mo><mi>…</mi><mo>⁢</mo><mn>9</mn><mo>;</mo></semantics> 
+475,1613912,11,answer,,177,177,, <semantics><mi>n</mi></semantics> 
+476,1613912,11,answer,,8229846,8229846,, <semantics><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>1</mn><mi>n</mi></munderover><mfrac><mn>9</mn><msup><mn>10</mn><mi>i</mi></msup></mfrac></semantics> 
+477,1613912,11,answer,,8229847,8229847,, <semantics><mn>0.999</mn><mo>⁢</mo><mi>…</mi><mo>.</mo></semantics> 
+478,1613912,11,answer,,8229848,8229848,, <semantics><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><mfrac><mn>9</mn><msup><mn>10</mn><mi>i</mi></msup></mfrac></semantics> 
+479,1613912,11,answer,,8229849,8229849,, <semantics><mn>0.9999</mn><mi>…</mi><mo>.</mo><mo>=</mo><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><mfrac><mn>9</mn><msup><mn>10</mn><mi>i</mi></msup></mfrac></semantics> 
+480,1613912,11,answer,,8229850,8229850,, <semantics><mn>10</mn><mo>*</mo><mo>(</mo><mn>0.9999</mn><mi>…</mi><mo>.</mo><mo>)</mo><mo>=</mo><mn>10</mn><mo>*</mo><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><mfrac><mn>9</mn><msup><mn>10</mn><mi>i</mi></msup></mfrac><mo>=</mo><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><mfrac><mn>90</mn><msup><mn>10</mn><mi>i</mi></msup></mfrac><mo>=</mo></semantics> 
+481,1613912,11,answer,,8229851,8229851,, <semantics><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><mfrac><mn>9</mn><msup><mn>10</mn><mi>i</mi><mo>-</mo><mn>1</mn></msup></mfrac><mo>=</mo><mn>9</mn><mo>/</mo><msup><mn>10</mn><mn>0</mn></msup><mo>+</mo><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>2</mn><mi>∞</mi></munderover><mfrac><mn>9</mn><msup><mn>10</mn><mi>i</mi><mo>-</mo><mn>1</mn></msup></mfrac><mo>=</mo><mn>9</mn><mo>+</mo><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><mfrac><mn>9</mn><msup><mn>10</mn><mi>i</mi></msup></mfrac></semantics> 
+482,1613912,11,answer,,8229852,8229852,, <semantics><mn>10</mn><mo>*</mo><mo>(</mo><mn>0.999</mn><mi>…</mi><mo>)</mo><mo>-</mo><mo>(</mo><mn>0.9999</mn><mi>…</mi><mo>)</mo><mo>=</mo><mo>(</mo><mn>10</mn><mo>-</mo><mn>1</mn><mo>)</mo><mo>*</mo><mn>0.9999</mn><mi>…</mi><mo>.</mo><mo>=</mo><mn>9</mn><mo>*</mo><mn>0.99999</mn><mi>…</mi><mo>.</mo><mo>=</mo></semantics> 
+483,1613912,11,answer,,8229853,8229853,, <semantics><mn>9</mn><mo>+</mo><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><mfrac><mn>9</mn><msup><mn>10</mn><mi>i</mi></msup></mfrac><mo>-</mo><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><mfrac><mn>9</mn><msup><mn>10</mn><mi>i</mi></msup></mfrac><mo>=</mo><mn>9</mn></semantics> 
+484,1613912,11,answer,,8229854,8229854,, <semantics><mn>0.9999</mn><mi>…</mi><mo>.</mo><mo>=</mo><mn>9</mn><mo>/</mo><mn>9</mn><mo>=</mo><mn>1</mn></semantics> 
+485,1613912,11,answer,,20,20,, <semantics><mi>m</mi></semantics> 
+486,1613912,11,answer,,5847,5847,, <semantics><mn>1</mn><mo>/</mo><mi>m</mi></semantics> 
+487,1613912,11,answer,,20,20,, <semantics><mi>m</mi></semantics> 
+488,1613912,11,answer,,5847,5847,, <semantics><mn>1</mn><mo>/</mo><mi>m</mi></semantics> 
+489,1613912,11,answer,,8229855,8229855,, <semantics><mi>n</mi><mo>/</mo><mi>m</mi><mo>;</mo><mi>m</mi><mo>≠</mo><mn>0</mn></semantics> 
+490,1613912,11,answer,,16249,16249,, <semantics><mi>n</mi><mo>/</mo><mi>m</mi></semantics> 
+491,1613912,11,answer,,1561550,1561550,, <semantics><mn>1</mn><mo>/</mo><msup><mn>10</mn><mi>n</mi></msup></semantics> 
+492,1613912,11,answer,,12351,12351,, <semantics><mo><mi>R</mi><mo>¯</mo></mover></semantics> 
+493,1613912,11,answer,,12351,12351,, <semantics><mo><mi>R</mi><mo>¯</mo></mover></semantics> 
+494,1613912,11,answer,,12351,12351,, <semantics><mo><mi>R</mi><mo>¯</mo></mover></semantics> 
+495,1613912,11,answer,,8229856,8229856,," <semantics><mi>x</mi><mo>,</mo><mi>y</mi><mo>∈</mo><mo><mi>R</mi><mo>¯</mo></mover><mo>;</mo><mi>x</mi><mo><</mo><mi>y</mi></semantics> "
+496,1613912,11,answer,,28679,28679,, <semantics><mo>⊂</mo></semantics> 
+497,1613912,11,answer,,3020771,3020771,, <semantics><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mi></mi></semantics> 
+498,1613912,11,answer,,12351,12351,, <semantics><mo><mi>R</mi><mo>¯</mo></mover></semantics> 
+499,1613912,11,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+500,1613912,11,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+501,1613912,11,answer,,1209333,1209333,, <semantics><mi>π</mi><mo>=</mo><mi></mi></semantics> 
+502,1613912,11,answer,,8229857,8229857,, <semantics><mn>0.9999</mn><mi>…</mi><mo>.</mo><mo>=</mo><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><mn>9</mn><mo>/</mo><msup><mn>10</mn><mi>i</mi></msup><mo>=</mo><mo>lim</mo><mo>{</mo><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>1</mn><mi>n</mi></munderover><mn>9</mn><mo>/</mo><msup><mn>10</mn><mi>i</mi></msup><mo>}</mo></semantics> 
+503,1613912,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+504,874357,11,answer,,8229858,8229858,, <semantics><mn>0</mn><mo>.</mo><mo><mn>9</mn><mo>¯</mo></mover></semantics> 
+505,1612692,11,answer,,8229859,8229859,, <semantics><mn>0.99999</mn><mo>⁢</mo><mi>…</mi><mo><</mo><mn>1</mn></semantics> 
+506,1612692,11,answer,,8229860,8229860,, <semantics><msub><mi>w</mi><mn>1</mn></msub><mo>></mo><msub><mi>w</mi><mn>2</mn></msub><mo>></mo><mi>…</mi></semantics> 
+507,1612692,11,answer,,319,319,, <semantics><mi>T</mi></semantics> 
+508,1612692,11,answer,,8229861,8229861,," <semantics><mo>(</mo><mn>0</mn><mo>,</mo><munder><mo>∑</mo><mi>i</mi></munder><msub><mi>w</mi><mi>i</mi></msub><mo>)</mo></semantics> "
+509,1612692,11,answer,,158,158,, <semantics><mi>i</mi></semantics> 
+510,1612692,11,answer,,1294,1294,, <semantics><mi>π</mi></semantics> 
+511,1612692,11,answer,,8229862,8229862,," <semantics><msub><mi>w</mi><mi>π</mi><mo>⁢</mo><mo>(</mo><mn>1</mn><mo>)</mo></msub><mo>,</mo><msub><mi>w</mi><mi>π</mi><mo>⁢</mo><mo>(</mo><mn>1</mn><mo>)</mo></msub><mo>+</mo><msub><mi>w</mi><mi>π</mi><mo>⁢</mo><mo>(</mo><mn>2</mn><mo>)</mo></msub><mo>,</mo><msub><mi>w</mi><mi>π</mi><mo>⁢</mo><mo>(</mo><mn>1</mn><mo>)</mo></msub><mo>+</mo><msub><mi>w</mi><mi>π</mi><mo>⁢</mo><mo>(</mo><mn>2</mn><mo>)</mo></msub><mo>+</mo><msub><mi>w</mi><mi>π</mi><mo>⁢</mo><mo>(</mo><mn>3</mn><mo>)</mo></msub><mo>,</mo><mi>⋯</mi></semantics> "
+512,1612692,11,answer,,8229863,8229863,, <semantics><msub><mi>φ</mi><mi>i</mi></msub><mo>⁢</mo><mo>(</mo><mi>T</mi><mo>)</mo></semantics> 
+513,1612692,11,answer,,319,319,, <semantics><mi>T</mi></semantics> 
+514,1612692,11,answer,,14848,14848,, <semantics><msub><mi>w</mi><mi>i</mi></msub></semantics> 
+515,1612692,11,answer,,14848,14848,, <semantics><msub><mi>w</mi><mi>i</mi></msub></semantics> 
+516,1612692,11,answer,,158,158,, <semantics><mi>i</mi></semantics> 
+517,1612692,11,answer,,8229864,8229864,, <semantics><msub><mi>w</mi><mi>i</mi></msub><mo>≥</mo><munderover><mo>∑</mo><mi>j</mi><mo>=</mo><mi>i</mi><mo>+</mo><mn>1</mn><mi>∞</mi></munderover><msub><mi>w</mi><mi>j</mi></msub></semantics> 
+518,1612692,11,answer,,8229865,8229865,, <semantics><msub><mi>w</mi><mi>i</mi></msub><mo>=</mo><msup><mn>2</mn><mo>-</mo><mi>i</mi></msup></semantics> 
+519,1612692,11,answer,,754407,754407,," <semantics><mi>T</mi><mo>∈</mo><mo>(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>)</mo></semantics> "
+520,1612692,11,answer,,8229866,8229866,," <semantics><mi>T</mi><mo>=</mo><msup><mn>2</mn><mo>-</mo><msub><mi>a</mi><mn>0</mn></msub></msup><mo>+</mo><msup><mn>2</mn><mo>-</mo><msub><mi>a</mi><mn>1</mn></msub></msup><mo>+</mo><mi>⋯</mi><mo>,</mo><msub><mi>a</mi><mn>0</mn></msub><mo><</mo><msub><mi>a</mi><mn>1</mn></msub><mo><</mo><mi>⋯</mi><mo>.</mo></semantics> "
+521,1612692,11,answer,,8229863,8229863,, <semantics><msub><mi>φ</mi><mi>i</mi></msub><mo>⁢</mo><mo>(</mo><mi>T</mi><mo>)</mo></semantics> 
+522,1612692,11,answer,,8229867,8229867,," <semantics><msub><mi>φ</mi><mi>i</mi></msub><mo>⁢</mo><mo>(</mo><mi>T</mi><mo>)</mo><mo>=</mo><mo>{</mo><msub><mo>∑</mo><mi>t</mi><mo>:</mo><msub><mi>a</mi><mi>t</mi></msub><mo>></mo><mi>i</mi></msub><mfrac><msub><mi>a</mi><mi>t</mi></msub><mo>-</mo><mn>1</mn><mi>t</mi></mfrac><mo>)</mo></mfrac><mtext>if </mtext><mo>⁢</mo><mi>i</mi><mo>∉</mo><mo>{</mo><msub><mi>a</mi><mn>0</mn></msub><mo>,</mo><msub><mi>a</mi><mn>1</mn></msub><mo>,</mo><mi>…</mi><mo>}</mo><mo>,</mo><mfrac><msub><mi>a</mi><mi>s</mi></msub><mo>-</mo><mn>1</mn><mi>s</mi></mfrac><mo>)</mo></mfrac><mo>-</mo><msub><mo>∑</mo><mi>t</mi><mo>:</mo><msub><mi>a</mi><mi>t</mi></msub><mo>></mo><mi>i</mi></msub><mfrac><msub><mi>a</mi><mi>t</mi></msub><mo>-</mo><mn>1</mn><mi>t</mi><mo>-</mo><mn>1</mn></mfrac><mo>)</mo></mfrac><mtext>if </mtext><mo>⁢</mo><mi>i</mi><mo>=</mo><msub><mi>a</mi><mi>s</mi></msub><mo>.</mo></mtable></semantics> "
+523,1612692,11,answer,,8229868,8229868,," <semantics><mi>T</mi><mo>=</mo><msub><mi>w</mi><msub><mi>a</mi><mn>0</mn></msub></msub><mo>+</mo><msub><mi>w</mi><msub><mi>a</mi><mn>1</mn></msub></msub><mo>+</mo><mi>⋯</mi><mo>,</mo><msub><mi>a</mi><mn>0</mn></msub><mo><</mo><msub><mi>a</mi><mn>1</mn></msub><mo><</mo><mi>⋯</mi><mo>.</mo></semantics> "
+524,1612692,11,answer,,319,319,, <semantics><mi>T</mi></semantics> 
+525,1612692,11,answer,,319,319,, <semantics><mi>T</mi></semantics> 
+526,1612692,11,answer,,8229869,8229869,, <semantics><msub><mi>w</mi><mi>i</mi></msub><mo>=</mo><msup><mn>3</mn><mo>-</mo><mi>i</mi></msup></semantics> 
+527,1612692,11,answer,,1972,1972,, <semantics><mi>y</mi><mo>=</mo><mn>1</mn></semantics> 
+528,1612692,11,answer,,8229870,8229870,," <semantics><mi>x</mi><mo>∈</mo><mo>(</mo><mn>1</mn><mo>/</mo><mn>6</mn><mo>,</mo><mn>1</mn><mo>/</mo><mn>3</mn><mo>)</mo></semantics> "
+529,1612692,11,answer,,8229871,8229871,, <semantics><mn>1</mn><mo>/</mo><mn>3</mn><mo>=</mo><msup><mn>3</mn><mo>-</mo><mn>1</mn></msup><mo>=</mo><msub><mi>w</mi><mn>1</mn></msub></semantics> 
+530,1612692,11,answer,,8229872,8229872,, <semantics><mn>1</mn><mo>/</mo><mn>6</mn><mo>=</mo><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>2</mn><mi>∞</mi></munderover><msup><mn>3</mn><mo>-</mo><mi>i</mi></msup><mo>=</mo><munderover><mo>∑</mo><mi>i</mi><mo>=</mo><mn>2</mn><mi>∞</mi></munderover><msub><mi>w</mi><mi>i</mi></msub></semantics> 
+531,1612692,11,answer,,8229865,8229865,, <semantics><msub><mi>w</mi><mi>i</mi></msub><mo>=</mo><msup><mn>2</mn><mo>-</mo><mi>i</mi></msup></semantics> 
+532,1612692,11,answer,,16173,16173,, <semantics><mn>1</mn><mo>/</mo><mn>3</mn></semantics> 
+533,1612692,11,answer,,47338,47338,, <semantics><mn>0.1</mn></semantics> 
+534,1612692,11,answer,,14478,14478,, <semantics><mn>1</mn><mo>/</mo><mn>6</mn></semantics> 
+535,1612692,11,answer,,3622711,3622711,, <semantics><mn>0.011111</mn><mo>⁢</mo><mi>…</mi></semantics> 
+536,1612692,11,answer,,3622711,3622711,, <semantics><mn>0.011111</mn><mo>⁢</mo><mi>…</mi></semantics> 
+537,1612692,11,answer,,47338,47338,, <semantics><mn>0.1</mn></semantics> 
+538,1592134,11,answer,,372466,372466,, <semantics><mn>0.99999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+539,1592134,11,answer,,837649,837649,, <semantics><mn>0</mn><mo>.</mo><mo><mn>9</mn><mo>¯</mo></mover></semantics> 
+540,1592134,11,answer,,8229873,8229873,, <semantics><mn>0</mn><mo>.</mo><mo><mn>9</mn><mo>¯</mo></mover><mo>=</mo><munderover><mo>∑</mo><mi>n</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><mn>9</mn><mo>⋅</mo><msup><mn>10</mn><mo>-</mo><mi>n</mi></msup><mo>=</mo><mn>9</mn><mo>⁢</mo><munderover><mo>∑</mo><mi>n</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><mfrac><mn>1</mn><msup><mn>10</mn><mi>n</mi></msup></mfrac></semantics> 
+541,1592134,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+542,1592134,11,answer,,8229874,8229874,, <semantics><mn>9</mn><mo>⁢</mo><munderover><mo>∑</mo><mi>n</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><mfrac><mn>1</mn><msup><mn>10</mn><mi>n</mi></msup></mfrac><mo>=</mo><mn>9</mn><mo>⁢</mo><mo>(</mo><mfrac><mn>1</mn><mn>1</mn><mo>-</mo><mfrac><mn>1</mn><mn>10</mn></mfrac></mfrac><mo>-</mo><mn>1</mn><mo>)</mo><mo>=</mo><mn>10</mn><mo>-</mo><mn>9</mn><mo>=</mo><mn>1</mn></semantics> 
+543,1592134,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+544,1592134,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+545,1592134,11,answer,,2775866,2775866,, <semantics><mn>0</mn></semantics> 
+546,1592134,11,answer,,3350,3350,, <semantics><mi>n</mi><mo>=</mo><mn>0</mn></semantics> 
+547,1592134,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+548,1861782,11,answer,,1087542,1087542,, <semantics><mn>.999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+549,1861782,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+550,1861782,11,answer,,2643,2643,, <semantics><msup><mi></mi><mo>*</mo></msup></semantics> 
+551,1861782,11,answer,,1087542,1087542,, <semantics><mn>.999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+552,1861782,11,answer,,3108220,3108220,, <semantics><mn>.999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>1</mn></semantics> 
+553,1861782,11,answer,,1087542,1087542,, <semantics><mn>.999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+554,1861782,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+555,1861782,11,answer,,373518,373518,, <semantics><mi>a</mi><mo>+</mo><mi>b</mi><mo>=</mo><mi>a</mi><mo>+</mo><mi>c</mi></semantics> 
+556,1861782,11,answer,,39265,39265,, <semantics><mi>b</mi><mo>=</mo><mi>c</mi></semantics> 
+557,1861782,11,answer,,3108220,3108220,, <semantics><mn>.999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>1</mn></semantics> 
+558,1861782,11,answer,,2643,2643,, <semantics><msup><mi></mi><mo>*</mo></msup></semantics> 
+559,1861782,11,answer,,4166430,4166430,, <semantics><mn>.999</mn><mo>⁢</mo><mi>…</mi><mo>≠</mo><mn>1</mn></semantics> 
+560,1861782,11,answer,,8229875,8229875,, <semantics><mn>.999</mn><mo>⁢</mo><mi>…</mi><mo>+</mo><mn>.999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>1</mn><mo>+</mo><mn>.999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+570,2296176,11,answer,,8229876,8229876,, <semantics><mn>0</mn><mo><</mo><mn>1</mn><mo>-</mo><mn>0.999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>0.1</mn><mo>+</mo><mn>0.9</mn><mo>-</mo><mn>0.999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>0.1</mn><mo>-</mo><mn>0.0999</mn><mo>⁢</mo><mi>…</mi><mo><</mo><mn>0.1</mn><mo>=</mo><msup><mn>0.1</mn><mn>1</mn></msup></semantics> 
+571,2296176,11,answer,,8229877,8229877,, <semantics><mn>0</mn><mo><</mo><mn>0.1</mn><mo>-</mo><mn>0.0999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>0.01</mn><mo>+</mo><mn>0.09</mn><mo>-</mo><mn>0.0999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>0.01</mn><mo>-</mo><mn>0.00999</mn><mo>⁢</mo><mi>…</mi><mo><</mo><mn>0.01</mn><mo>=</mo><msup><mn>0.1</mn><mn>2</mn></msup></semantics> 
+572,2296176,11,answer,,4669,4669,, <semantics><mi>…</mi></semantics> 
+573,2296176,11,answer,,8229878,8229878,, <semantics><mn>0</mn><mo><</mo><mn>1</mn><mo>-</mo><mn>0.999</mn><mo>⁢</mo><mi>…</mi><mo><</mo><msup><mn>0.1</mn><mi>n</mi></msup></semantics> 
+574,2296176,11,answer,,8229879,8229879,, <semantics><mn>0</mn><mo>≤</mo><mn>1</mn><mo>-</mo><mn>0.999</mn><mo>⁢</mo><mi>…</mi><mo>≤</mo><munder><mo>lim</mo><mi>n</mi><mo>→</mo><mi>∞</mi></munder><mo>⁡</mo><msup><mn>0.1</mn><mi>n</mi></msup><mo>=</mo><mn>0</mn><mo>.</mo></semantics> 
+575,2716246,11,answer,,13918,13918,, <semantics><mn>0.2</mn></semantics> 
+576,2716246,11,answer,,6428189,6428189,, <semantics><mn>0.1999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+577,2716246,11,answer,,5678574,5678574,, <semantics><mn>0.19999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+578,2716246,11,answer,,8229880,8229880,, <semantics><mn>0.1</mn><mo>⁢</mo><mo><mn>9</mn><mo>¯</mo></mover></semantics> 
+579,2716246,11,answer,,2775866,2775866,, <semantics><mn>0</mn></semantics> 
+580,2716246,11,answer,,406111,406111,, <semantics><mn>0.000</mn><mo>⁢</mo><mi>…</mi></semantics> 
+581,2716246,11,answer,,5408095,5408095,, <semantics><mi>…</mi><mo>⁢</mo><mn>999.999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+582,2716246,11,answer,,8229881,8229881,, <semantics><mo><mn>9</mn><mo>¯</mo></mover><mo>.</mo><mo><mn>9</mn><mo>¯</mo></mover></semantics> 
+583,2716246,11,answer,,8229882,8229882,, <semantics><mi>…</mi><mo>⁢</mo><mn>998.999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mo><mn>9</mn><mo>¯</mo></mover><mo>⁢</mo><mn>8</mn><mo>.</mo><mo><mn>9</mn><mo>¯</mo></mover><mo>=</mo><mo>-</mo><mn>1</mn></semantics> 
+584,2716246,11,answer,,8229883,8229883,, <semantics><mn>0.99999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>0</mn><mo>.</mo><mo><mn>9</mn><mo>¯</mo></mover><mo>=</mo><mn>1</mn></semantics> 
+585,2716246,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+586,2716246,11,answer,,10706,10706,, <semantics><mn>1.0000</mn><mo>⁢</mo><mi>…</mi></semantics> 
+587,2988799,11,answer,,3052,3052,, <semantics><mn>9</mn></semantics> 
+588,2988799,11,answer,,837649,837649,, <semantics><mn>0</mn><mo>.</mo><mo><mn>9</mn><mo>¯</mo></mover></semantics> 
+589,2988799,11,answer,,8229884,8229884,, <semantics><mn>1.123</mn><mo>⁢</mo><mo><mn>9</mn><mo>¯</mo></mover></semantics> 
+590,2988799,11,answer,,8229885,8229885,, <semantics><mn>0</mn><mo>.</mo><mo><mn>9</mn><mo>¯</mo></mover><mo>=</mo><munderover><mo>∑</mo><mi>n</mi><mo>=</mo><mn>1</mn><mi>∞</mi></munderover><msup><mo>(</mo><mn>9</mn><mo>/</mo><mn>10</mn><mo>)</mo><mi>n</mi></msup><mo>=</mo><mn>1</mn></semantics> 
+591,2988799,11,answer,,837649,837649,, <semantics><mn>0</mn><mo>.</mo><mo><mn>9</mn><mo>¯</mo></mover></semantics> 
+617,2904824,11,answer,,8229891,8229891,, <semantics><mn>0.9999999999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><munder><mo>lim</mo><mi>n</mi><mo>→</mo><mi>∞</mi></munder><mo>⁡</mo><mo>(</mo><mn>1</mn><mo>-</mo><mfrac><mn>1</mn><msup><mn>10</mn><mi>n</mi></msup></mfrac><mo>)</mo><mo>=</mo><mn>1</mn><mo>-</mo><mn>0</mn><mo>=</mo><mn>1</mn></semantics> 
+618,3016407,11,answer,,725319,725319,, <semantics><mn>0.999999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>1</mn></semantics> 
+619,3016407,11,answer,,481724,481724,, <semantics><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>=</mo><mn>0.33333</mn><mo>⁢</mo><mi>…</mi></semantics> 
+620,3016407,11,answer,,305,305,, <semantics><mn>3</mn></semantics> 
+621,3016407,11,answer,,372466,372466,, <semantics><mn>0.99999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+622,3016407,11,answer,,364,364,, <semantics><mfrac><mn>1</mn><mn>3</mn></mfrac></semantics> 
+623,3016407,11,answer,,1726579,1726579,, <semantics><mn>0.999999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+624,3016407,11,answer,,3097,3097,, <semantics><mfrac><mn>1</mn><mn>9</mn></mfrac></semantics> 
+625,3016407,11,answer,,342,342,, <semantics><mn>1</mn></semantics> 
+626,3016407,11,answer,,8229892,8229892,, <semantics><mn>0.222222</mn><mo>⁢</mo><mi>…</mi></semantics> 
+627,3016407,11,answer,,1781092,1781092,, <semantics><mn>0.333333</mn><mo>⁢</mo><mi>…</mi></semantics> 
+628,3016407,11,answer,,8229893,8229893,, <semantics><mn>0.444444</mn><mo>⁢</mo><mi>…</mi></semantics> 
+629,3016407,11,answer,,1726579,1726579,, <semantics><mn>0.999999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+630,3016407,11,answer,,2116742,2116742,, <semantics><mfrac><mn>1</mn><mn>7</mn></mfrac><mo>=</mo><mn>0.142857</mn><mo>⁢</mo><mi>…</mi></semantics> 
+631,3016407,11,answer,,2116742,2116742,, <semantics><mfrac><mn>1</mn><mn>7</mn></mfrac><mo>=</mo><mn>0.142857</mn><mo>⁢</mo><mi>…</mi></semantics> 
+632,3016407,11,answer,,8229894,8229894,, <semantics><mfrac><mn>2</mn><mn>7</mn></mfrac><mo>=</mo><mn>0.285714</mn><mo>⁢</mo><mi>…</mi></semantics> 
+633,3016407,11,answer,,8229895,8229895,, <semantics><mfrac><mn>3</mn><mn>7</mn></mfrac><mo>=</mo><mn>0.428571</mn><mo>⁢</mo><mi>…</mi></semantics> 
+634,3016407,11,answer,,3617523,3617523,, <semantics><mfrac><mn>6</mn><mn>7</mn></mfrac><mo>=</mo><mn>0.857142</mn><mo>⁢</mo><mi>…</mi></semantics> 
+635,3016407,11,answer,,8229896,8229896,, <semantics><mfrac><mn>7</mn><mn>7</mn></mfrac><mo>=</mo><mn>0.999999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+636,3016407,11,answer,,55566,55566,, <semantics><mfrac><mn>1</mn><mn>13</mn></mfrac></semantics> 
+637,3016407,11,answer,,1165319,1165319,, <semantics><mfrac><mn>1</mn><mn>37</mn></mfrac></semantics> 
+638,3016407,11,answer,,1726579,1726579,, <semantics><mn>0.999999</mn><mo>⁢</mo><mi>…</mi></semantics> 
+639,3016407,11,answer,,725319,725319,, <semantics><mn>0.999999</mn><mo>⁢</mo><mi>…</mi><mo>=</mo><mn>1</mn></semantics> 
+640,3016407,11,comment,6289518.0,3097,3097,, <semantics><mfrac><mn>1</mn><mn>9</mn></mfrac></semantics> 
+641,3016407,11,comment,6289518.0,1414562,1414562,, <semantics><mfrac><mn>8</mn><mn>9</mn></mfrac></semantics> 
+642,93,18,answer,,182,182,, <semantics><mi>j</mi></semantics> 
+643,93,18,answer,,177,177,, <semantics><mi>n</mi></semantics> 
+644,93,18,answer,,1073,1073,, <semantics><mi>e</mi></semantics> 
+645,93,18,answer,,8229897,8229897,, <semantics><mi>n</mi><mo>=</mo><msqrt><mo>(</mo><mi>j</mi><mo>⁢</mo><msqrt><mn>1</mn><mo>-</mo><msup><mi>e</mi><mn>2</mn></msup></msqrt><mo>)</mo><mo>×</mo><mo>(</mo><mi>j</mi><mo>⁢</mo><mo>(</mo><mn>1</mn><mo>-</mo><msup><mi>e</mi><mn>2</mn></msup><mo>)</mo><mo>)</mo></msqrt></semantics> 
+646,11839,18,answer,,159,159,, <semantics><mi>a</mi></semantics> 
+647,11839,18,answer,,368,368,, <semantics><mi>b</mi></semantics> 
+648,11839,18,answer,,6525346,6525346,, <semantics><mi>o</mi><mo>⁢</mo><mi>e</mi></semantics> 
+649,11839,18,answer,,8229898,8229898,, <semantics><mi>arccos</mi><mo>⁡</mo><mo>(</mo><mfrac><mi>b</mi><mi>a</mi></mfrac><mo>)</mo></semantics> 
+650,11839,18,answer,,1,1,, <semantics><mi>f</mi></semantics> 
+651,11839,18,answer,,8229899,8229899,, <semantics><mfrac><mi>a</mi><mo>-</mo><mi>b</mi><mi>a</mi></mfrac><mo>=</mo><mn>1</mn><mo>-</mo><mfrac><mi>b</mi><mi>a</mi></mfrac><mo>=</mo><mn>1</mn><mo>-</mo><mi>cos</mi><mo>(</mo><mi>o</mi><mi>e</mi><mo>)</mo><mo>=</mo><mn>2</mn><mi>sin</mi><msup><mo>(</mo><mfrac><mi>o</mi><mo>⁢</mo><mi>e</mi><mn>2</mn></mfrac><mo>)</mo><mn>2</mn></msup></semantics> 
+652,11839,18,answer,,8229900,8229900,, <semantics><mi>b</mi><mo>=</mo><mi>a</mi><mo>⁢</mo><mi>cos</mi><mo>⁡</mo><mo>(</mo><mi>o</mi><mo>⁢</mo><mi>e</mi><mo>)</mo><mo>=</mo><mi>a</mi><mo>⁢</mo><mo>(</mo><mn>1</mn><mo>-</mo><mi>f</mi><mo>)</mo></semantics> 
+653,920,20,answer,,1662,1662,, <semantics><msup><mi>ℝ</mi><mi>n</mi></msup></semantics> 
+654,920,20,answer,,2631,2631,, <semantics><msup><mi>ℝ</mi><mi>m</mi></msup></semantics> 
+655,920,20,answer,,177,177,, <semantics><mi>n</mi></semantics> 
+656,920,20,answer,,20,20,, <semantics><mi>m</mi></semantics> 
+657,920,20,answer,,625,625,, <semantics><mi>q</mi></semantics> 
+658,920,20,answer,,11335,11335,," <semantics><mi>u</mi><mo>,</mo><mi>v</mi></semantics> "
+659,920,20,answer,,14972,14972,, <semantics><mi>u</mi><mo>+</mo><mi>v</mi></semantics> 
+660,920,20,answer,,16162,16162,," <semantics><mo>(</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>)</mo></semantics> "
+661,920,20,answer,,2953,2953,," <semantics><mo>(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>)</mo></semantics> "
+662,920,20,answer,,16162,16162,," <semantics><mo>(</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>)</mo></semantics> "
+663,920,20,answer,,2953,2953,," <semantics><mo>(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>)</mo></semantics> "
+664,920,20,answer,,16162,16162,," <semantics><mo>(</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>)</mo></semantics> "
+665,920,20,answer,,16162,16162,," <semantics><mo>(</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>)</mo></semantics> "
+666,920,20,answer,,2953,2953,," <semantics><mo>(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>)</mo></semantics> "
+667,920,20,answer,,16162,16162,," <semantics><mo>(</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>)</mo></semantics> "
+668,920,20,answer,,206,206,, <semantics><mi>θ</mi></semantics> 
+669,920,20,answer,,180,180,, <semantics><mi>r</mi></semantics> 
+670,920,20,answer,,16162,16162,," <semantics><mo>(</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>)</mo></semantics> "
+671,920,20,answer,,43363,43363,," <semantics><mo>(</mo><mi>r</mi><mo>⁢</mo><mi>cos</mi><mo>⁡</mo><mi>θ</mi><mo>,</mo><mi>r</mi><mo>⁢</mo><mi>sin</mi><mo>⁡</mo><mi>θ</mi><mo>)</mo></semantics> "
+672,920,20,answer,,2716,2716,, <semantics><mi>ϕ</mi></semantics> 
+673,920,20,answer,,706,706,, <semantics><mi>s</mi></semantics> 
+674,920,20,answer,,16162,16162,," <semantics><mo>(</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>)</mo></semantics> "
+675,920,20,answer,,8229901,8229901,," <semantics><mo>(</mo><mi>s</mi><mo>⁢</mo><mi>cos</mi><mo>⁡</mo><mi>ϕ</mi><mo>,</mo><mi>s</mi><mo>⁢</mo><mi>sin</mi><mo>⁡</mo><mi>ϕ</mi><mo>)</mo></semantics> "
+676,920,20,answer,,16162,16162,," <semantics><mo>(</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>)</mo></semantics> "
+677,920,20,answer,,8229902,8229902,," <semantics><mo>(</mo><mi>r</mi><mo>⁢</mo><mi>s</mi><mo>⁢</mo><mi>cos</mi><mo>⁡</mo><mo>(</mo><mi>θ</mi><mo>+</mo><mi>ϕ</mi><mo>)</mo><mo>,</mo><mi>r</mi><mo>⁢</mo><mi>s</mi><mo>⁢</mo><mi>sin</mi><mo>⁡</mo><mo>(</mo><mi>θ</mi><mo>+</mo><mi>ϕ</mi><mo>)</mo><mo>)</mo></semantics> "
+678,920,20,answer,,8229903,8229903,," <semantics><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>)</mo><mo>*</mo><mo>(</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo>)</mo><mo>=</mo><mo>(</mo><mi>a</mi><mo>⁢</mo><mi>c</mi><mo>-</mo><mi>b</mi><mo>⁢</mo><mi>d</mi><mo>,</mo><mi>a</mi><mo>⁢</mo><mi>d</mi><mo>+</mo><mi>b</mi><mo>⁢</mo><mi>c</mi><mo>)</mo><mo>.</mo></semantics> "
+679,920,20,answer,,2239,2239,," <semantics><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>)</mo></semantics> "
+680,920,20,answer,,8621,8621,, <semantics><mi>a</mi><mo>+</mo><mi>b</mi><mo>⁢</mo><mi>i</mi></semantics> 
+681,54,20,comment,14072.0,8229904,8229904,," <semantics><mo>{</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mi>…</mi><mo>,</mo><mi>ω</mi><mo>}</mo></semantics> "
+682,54,20,comment,14072.0,72940,72940,," <semantics><mo>{</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mi>…</mi><mo>}</mo></semantics> "
+683,6628,20,answer,,67550,67550,, <semantics><msub><mi>ℕ</mi><mn>𝟘</mn></msub></semantics> 
+684,6628,20,answer,,989,989,, <semantics><mi>I</mi></semantics> 
+685,6628,20,answer,,1031822,1031822,, <semantics><mi>∅</mi><mo>∈</mo><mi>I</mi></semantics> 
+686,6628,20,answer,,3405520,3405520,, <semantics><mi>x</mi><mo>∈</mo><mi>I</mi><mo>⇒</mo><mi>x</mi><mo>∪</mo><mo>{</mo><mi>x</mi><mo>}</mo><mo>∈</mo><mi>I</mi></semantics> 
+687,6628,20,answer,,989,989,, <semantics><mi>I</mi></semantics> 
+688,6628,20,answer,,168204,168204,, <semantics><mn>0</mn><mo>=</mo><mi>∅</mi></semantics> 
+689,6628,20,answer,,8229905,8229905,," <semantics><mn>1</mn><mo>=</mo><mn>0</mn><mo>∪</mo><mo>{</mo><mn>0</mn><mo>}</mo><mo>=</mo><mo>{</mo><mi>∅</mi><mo>,</mo><mo>{</mo><mi>∅</mi><mo>}</mo><mo>}</mo><mo>,</mo><mn>2</mn><mo>=</mo><mn>1</mn><mo>∪</mo><mo>{</mo><mn>1</mn><mo>}</mo><mo>⁢</mo><mi>…</mi></semantics> "
+690,6628,20,answer,,989,989,, <semantics><mi>I</mi></semantics> 
+691,6628,20,answer,,4986,4986,, <semantics><mi>ω</mi></semantics> 
+692,6628,20,answer,,13013,13013,, <semantics><msub><mi>ℕ</mi><mn>0</mn></msub></semantics> 
+693,6628,20,answer,,4986,4986,, <semantics><mi>ω</mi></semantics> 
+694,6628,20,answer,,260375,260375,, <semantics><mi>x</mi><mo>+</mo><mn>0</mn><mo>=</mo><mi>x</mi></semantics> 
+695,6628,20,answer,,5379608,5379608,, <semantics><mi>x</mi><mo>+</mo><mn>1</mn><mo>=</mo><mi>x</mi><mo>∪</mo><mo>{</mo><mi>x</mi><mo>}</mo></semantics> 
+696,6628,20,answer,,8229906,8229906,, <semantics><mi>x</mi><mo>+</mo><mo>(</mo><mi>y</mi><mo>∪</mo><mo>{</mo><mi>y</mi><mo>}</mo><mo>)</mo><mo>=</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>∪</mo><mo>{</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>}</mo></semantics> 
+697,6628,20,answer,,8229907,8229907,, <semantics><mi>ℤ</mi><mo>=</mo><msub><mi>ℕ</mi><mn>𝟘</mn></msub><mo>×</mo><msub><mi>ℕ</mi><mn>𝟘</mn></msub><mo>/</mo><mo>∼</mo></semantics> 
+698,6628,20,answer,,3866732,3866732,," <semantics><mo>(</mo><mi>n</mi><mo>,</mo><mi>m</mi><mo>)</mo><mo>∼</mo><mo>(</mo><msup><mi>n</mi><mo>′</mo></msup><mo>,</mo><msup><mi>m</mi><mo>′</mo></msup><mo>)</mo></semantics> "
+699,6628,20,answer,,8229908,8229908,, <semantics><mo>(</mo><mi>n</mi><mo>+</mo><msup><mi>m</mi><mo>′</mo></msup><mo>)</mo><mo>=</mo><mo>(</mo><mi>m</mi><mo>+</mo><msup><mi>n</mi><mo>′</mo></msup><mo>)</mo></semantics> 
+700,6628,20,answer,,3363529,3363529,," <semantics><mo>{</mo><mo>(</mo><mn>0</mn><mo>,</mo><mn>2</mn><mo>)</mo><mo>,</mo><mo>(</mo><mn>1</mn><mo>,</mo><mn>3</mn><mo>)</mo><mo>,</mo><mo>(</mo><mn>2</mn><mo>,</mo><mn>4</mn><mo>)</mo><mo>,</mo><mi>…</mi><mo>}</mo></semantics> "
+701,6628,20,answer,,8229909,8229909,, <semantics><msub><mi>ℕ</mi><mn>𝟘</mn></msub><mo>↪</mo><mi>ℤ</mi></semantics> 
+702,6628,20,answer,,45529,45529,, <semantics><mn>0</mn><mo>∈</mo><mi>ℤ</mi></semantics> 
+703,6628,20,answer,,1611,1611,, <semantics><mi>∅</mi></semantics> 
+704,6628,20,answer,,8229910,8229910,, <semantics><mi>∅</mi><mo>∉</mo><mi>ℤ</mi></semantics> 
+705,6628,20,answer,,8229911,8229911,, <semantics><mi>ℚ</mi><mo>=</mo><mi>ℤ</mi><mo>×</mo><mi>ℤ</mi><mo>∖</mo><mo>{</mo><mn>0</mn><mo>}</mo><mo>/</mo><mo>∼</mo></semantics> 
+706,6628,20,answer,,44191,44191,," <semantics><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>)</mo><mo>∼</mo><mo>(</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo>)</mo></semantics> "
+707,6628,20,answer,,61343,61343,, <semantics><mi>a</mi><mo>⁢</mo><mi>d</mi><mo>=</mo><mi>b</mi><mo>⁢</mo><mi>c</mi></semantics> 
+708,6628,20,answer,,8229912,8229912,, <semantics><msub><mi>ℕ</mi><mn>0</mn></msub><mo>↪</mo><mi>ℚ</mi></semantics> 
+709,6628,20,answer,,123386,123386,, <semantics><mi>ℤ</mi><mo>↪</mo><mi>ℚ</mi></semantics> 
+710,6628,20,answer,,9956,9956,, <semantics><mfrac><mn>2</mn><mn>3</mn></mfrac></semantics> 
+711,6628,20,answer,,8229913,8229913,," <semantics><mo>{</mo><mo>(</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>)</mo><mo>,</mo><mo>(</mo><mn>4</mn><mo>,</mo><mn>6</mn><mo>)</mo><mo>,</mo><mo>(</mo><mn>6</mn><mo>,</mo><mn>9</mn><mo>)</mo><mo>,</mo><mi>…</mi><mo>}</mo></semantics> "
+712,6628,20,answer,,448,448,, <semantics><mi>ℝ</mi></semantics> 
+713,6628,20,answer,,4229,4229,, <semantics><mo>≤</mo></semantics> 
+714,6628,20,answer,,448,448,, <semantics><mi>ℝ</mi></semantics> 
+715,6628,20,answer,,448,448,, <semantics><mi>ℝ</mi></semantics> 
+716,6628,20,answer,,448,448,, <semantics><mi>ℝ</mi></semantics> 
+717,6628,20,answer,,2775866,2775866,, <semantics><mn>0</mn></semantics> 
+718,6628,20,answer,,2775866,2775866,, <semantics><mn>0</mn></semantics> 
+719,6628,20,answer,,431438,431438,, <semantics><mo>(</mo><mfrac><mn>1</mn><mi>n</mi></mfrac><mo>)</mo></semantics> 
+720,6628,20,answer,,2775866,2775866,, <semantics><mn>0</mn></semantics> 
+721,6628,20,answer,,3375,3375,, <semantics><mi>ℤ</mi></semantics> 
+722,6628,20,answer,,93,93,, <semantics><mi>α</mi></semantics> 
+723,6628,20,answer,,93,93,, <semantics><mi>α</mi></semantics> 
+724,6628,20,answer,,63239,63239,, <semantics><mi>ℤ</mi><mo>×</mo><mi>ℤ</mi></semantics> 
+730,387847,20,answer,,68,68,, <semantics><mi>y</mi></semantics> 
+731,387847,20,answer,,8229914,8229914,, <semantics><mi>x</mi><mo>∈</mo><mi>y</mi><mo>⇒</mo><mi>x</mi><mo>⊂</mo><mi>y</mi></semantics> 
+732,22,22,question,,8229915,8229915,," <semantics><mo>⟨</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo>⟩</mo><mo>×</mo><mo>⟨</mo><mi>d</mi><mo>,</mo><mi>e</mi><mo>,</mo><mi>f</mi><mo>⟩</mo><mo>=</mo><mo>|</mo><mi>i</mi><mi>j</mi><mi>k</mi><mi>a</mi><mi>b</mi><mi>c</mi><mi>d</mi><mi>e</mi><mi>f</mi></mtable><mo>|</mo><mo><</mo><mo>/</mo><mi>d</mi><mo>,</mo><mi>e</mi><mo>,</mo><mi>f</mi><mo>⟩</mo><mo><</mo><mo>/</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo>⟩</mo></semantics> "
+733,22,22,question,,83,83,, <semantics><mi>k</mi></semantics> 
+734,22,22,question,,83,83,, <semantics><mi>k</mi></semantics> 
+735,42,22,answer,,121836,121836,, <semantics><mi>𝐢</mi></semantics> 
+736,42,22,answer,,182633,182633,, <semantics><mi>𝐣</mi></semantics> 
+737,42,22,answer,,208832,208832,, <semantics><mi>𝐤</mi></semantics> 
+738,42,22,answer,,66,66,," <semantics><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo></semantics> "
+739,42,22,answer,,121836,121836,, <semantics><mi>𝐢</mi></semantics> 
+740,42,22,answer,,182633,182633,, <semantics><mi>𝐣</mi></semantics> 
+741,42,22,answer,,44,44,, <semantics><mi>z</mi></semantics> 
+742,42,22,answer,,208832,208832,, <semantics><mi>𝐤</mi></semantics> 
+743,887,22,answer,,2837,2837,," <semantics><msub><mi>e</mi><mn>1</mn></msub><mo>,</mo><msub><mi>e</mi><mn>2</mn></msub><mo>,</mo><msub><mi>e</mi><mn>3</mn></msub></semantics> "
+744,887,22,answer,,2209,2209,, <semantics><msup><mi>ℝ</mi><mn>3</mn></msup></semantics> 
+745,887,22,answer,,991932,991932,, <semantics><mi>a</mi><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>e</mi><mn>1</mn></msub><mo>+</mo><msub><mi>a</mi><mn>2</mn></msub><mo>⁢</mo><msub><mi>e</mi><mn>2</mn></msub><mo>+</mo><msub><mi>a</mi><mn>3</mn></msub><mo>⁢</mo><msub><mi>e</mi><mn>3</mn></msub></semantics> 
+746,887,22,answer,,8229916,8229916,, <semantics><mi>b</mi><mo>=</mo><msub><mi>b</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>e</mi><mn>1</mn></msub><mo>+</mo><msub><mi>b</mi><mn>2</mn></msub><mo>⁢</mo><msub><mi>e</mi><mn>2</mn></msub><mo>+</mo><msub><mi>b</mi><mn>3</mn></msub><mo>⁢</mo><msub><mi>e</mi><mn>3</mn></msub></semantics> 
+747,887,22,answer,,8229917,8229917,, <semantics><mi>a</mi><mo>×</mo><mi>b</mi><mo>=</mo><mo>(</mo><msub><mi>a</mi><mn>2</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>3</mn></msub><mo>-</mo><msub><mi>a</mi><mn>3</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>2</mn></msub><mo>)</mo><mo>⁢</mo><msub><mi>e</mi><mn>1</mn></msub><mo>+</mo><mo>(</mo><msub><mi>a</mi><mn>3</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>1</mn></msub><mo>-</mo><msub><mi>a</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>3</mn></msub><mo>)</mo><mo>⁢</mo><msub><mi>e</mi><mn>2</mn></msub><mo>+</mo><mo>(</mo><msub><mi>a</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>2</mn></msub><mo>-</mo><msub><mi>a</mi><mn>2</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>1</mn></msub><mo>)</mo><mo>⁢</mo><msub><mi>e</mi><mn>3</mn></msub></semantics> 
+748,887,22,answer,,8229918,8229918,, <semantics><mi>a</mi><mo>∧</mo><mi>b</mi><mo>=</mo><mo>(</mo><msub><mi>a</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>2</mn></msub><mo>-</mo><msub><mi>a</mi><mn>2</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>1</mn></msub><mo>)</mo><mo>⁢</mo><msub><mi>e</mi><mn>1</mn></msub><mo>∧</mo><msub><mi>e</mi><mn>2</mn></msub><mo>+</mo><mo>(</mo><msub><mi>a</mi><mn>2</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>3</mn></msub><mo>-</mo><msub><mi>a</mi><mn>3</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>2</mn></msub><mo>)</mo><mo>⁢</mo><msub><mi>e</mi><mn>2</mn></msub><mo>∧</mo><msub><mi>e</mi><mn>3</mn></msub><mo>+</mo><mo>(</mo><msub><mi>a</mi><mn>3</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>1</mn></msub><mo>-</mo><msub><mi>a</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>3</mn></msub><mo>)</mo><mo>⁢</mo><msub><mi>e</mi><mn>3</mn></msub><mo>∧</mo><msub><mi>e</mi><mn>1</mn></msub></semantics> 
+749,887,22,answer,,23170,23170,, <semantics><mo>∧</mo></semantics> 
+750,887,22,answer,,3900194,3900194,, <semantics><mo>(</mo><msub><mi>e</mi><mn>1</mn></msub><mo>∧</mo><msub><mi>e</mi><mn>2</mn></msub><mo>)</mo></semantics> 
+751,887,22,answer,,8229919,8229919,, <semantics><mo>(</mo><msub><mi>e</mi><mn>3</mn></msub><mo>∧</mo><msub><mi>e</mi><mn>2</mn></msub><mo>∧</mo><msub><mi>e</mi><mn>1</mn></msub><mo>)</mo></semantics> 
+752,887,22,answer,,6943,6943,, <semantics><msub><mi>e</mi><mn>3</mn></msub></semantics> 
+753,887,22,answer,,8229920,8229920,, <semantics><mi>a</mi><mo>×</mo><mi>b</mi><mo>=</mo><msup><mo>(</mo><mi>a</mi><mo>∧</mo><mi>b</mi><mo>)</mo><mo>*</mo></msup></semantics> 
+754,887,22,answer,,159,159,, <semantics><mi>a</mi></semantics> 
+755,887,22,answer,,368,368,, <semantics><mi>b</mi></semantics> 
+756,887,22,answer,,159,159,, <semantics><mi>a</mi></semantics> 
+757,887,22,answer,,368,368,, <semantics><mi>b</mi></semantics> 
+758,887,22,answer,,8229921,8229921,, <semantics><mo>(</mo><msub><mi>a</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>e</mi><mn>1</mn></msub><mo>+</mo><msub><mi>a</mi><mn>2</mn></msub><mo>⁢</mo><msub><mi>e</mi><mn>2</mn></msub><mo>+</mo><msub><mi>a</mi><mn>3</mn></msub><mo>⁢</mo><msub><mi>e</mi><mn>3</mn></msub><mo>)</mo><mo>∧</mo><mo>(</mo><msub><mi>b</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>e</mi><mn>1</mn></msub><mo>+</mo><msub><mi>b</mi><mn>2</mn></msub><mo>⁢</mo><msub><mi>e</mi><mn>2</mn></msub><mo>+</mo><msub><mi>b</mi><mn>3</mn></msub><mo>⁢</mo><msub><mi>e</mi><mn>3</mn></msub><mo>)</mo></semantics> 
+759,53,22,answer,,162069,162069,, <semantics><mi>a</mi><mo>⋅</mo><mi>b</mi><mo>=</mo><mn>0</mn></semantics> 
+760,53,22,answer,,8229922,8229922,, <semantics><mo>(</mo><mi>a</mi><mo>×</mo><mi>b</mi><mo>)</mo><mo>⋅</mo><mi>a</mi><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>⁢</mo><mo>(</mo><msub><mi>a</mi><mn>2</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>3</mn></msub><mo>-</mo><msub><mi>a</mi><mn>3</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>2</mn></msub><mo>)</mo><mo>-</mo><msub><mi>a</mi><mn>2</mn></msub><mo>⁢</mo><mo>(</mo><msub><mi>a</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>3</mn></msub><mo>-</mo><msub><mi>a</mi><mn>3</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>1</mn></msub><mo>)</mo><mo>-</mo><msub><mi>a</mi><mn>3</mn></msub><mo>⁢</mo><mo>(</mo><msub><mi>a</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>2</mn></msub><mo>-</mo><msub><mi>a</mi><mn>2</mn></msub><mo>⁢</mo><msub><mi>b</mi><mn>1</mn></msub><mo>)</mo><mo>=</mo><mn>0</mn></semantics> 
+761,53,22,answer,,8229923,8229923,, <semantics><mo>(</mo><mi>a</mi><mo>×</mo><mi>b</mi><mo>)</mo><mo>⋅</mo><mi>b</mi><mo>-</mo><mn>0</mn></semantics> 
+762,89,22,answer,,158,158,, <semantics><mi>i</mi></semantics> 
+763,89,22,answer,,182,182,, <semantics><mi>j</mi></semantics> 
+764,89,22,answer,,83,83,, <semantics><mi>k</mi></semantics> 
+765,89,22,answer,,20,20,, <semantics><mi>m</mi></semantics> 
+766,89,22,answer,,177,177,, <semantics><mi>n</mi></semantics> 
+767,89,22,answer,,74,74,, <semantics><mi>p</mi></semantics> 
+768,89,22,answer,,67548,67548,," <semantics><mo>(</mo><mi>m</mi><mo>,</mo><mi>n</mi><mo>,</mo><mi>p</mi><mo>)</mo></semantics> "
+769,89,22,answer,,8229924,8229924,," <semantics><mo>(</mo><mi>m</mi><mo>,</mo><mi>n</mi><mo>,</mo><mi>p</mi><mo>)</mo><mo>=</mo><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo>)</mo></semantics> "
+770,89,22,answer,,8229925,8229925,," <semantics><mo>(</mo><mi>m</mi><mo>,</mo><mi>n</mi><mo>,</mo><mi>p</mi><mo>)</mo><mo>=</mo><mo>(</mo><mi>d</mi><mo>,</mo><mi>e</mi><mo>,</mo><mi>f</mi><mo>)</mo></semantics> "
+771,89,22,answer,,11227,11227,," <semantics><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo>)</mo></semantics> "
+772,89,22,answer,,108548,108548,," <semantics><mo>(</mo><mi>d</mi><mo>,</mo><mi>e</mi><mo>,</mo><mi>f</mi><mo>)</mo></semantics> "
+773,89,22,answer,,11227,11227,," <semantics><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo>)</mo></semantics> "
+774,89,22,answer,,108548,108548,," <semantics><mo>(</mo><mi>d</mi><mo>,</mo><mi>e</mi><mo>,</mo><mi>f</mi><mo>)</mo></semantics> "
+775,109,51,answer,,277,277,, <semantics><mi>R</mi></semantics> 
+776,109,51,answer,,297,297,, <semantics><mi>t</mi></semantics> 
+777,109,51,answer,,8229926,8229926,, <semantics><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>⁢</mo><msup><mi>R</mi><mn>2</mn></msup><mo>⁢</mo><mo>(</mo><mi>t</mi><mo>-</mo><mi>sin</mi><mo>⁡</mo><mo>(</mo><mi>t</mi><mo>)</mo><mo>)</mo></semantics> 
+778,109,51,answer,,297,297,, <semantics><mi>t</mi></semantics> 
+779,109,51,answer,,277,277,, <semantics><mi>R</mi></semantics> 
+780,109,51,answer,,206,206,, <semantics><mi>θ</mi></semantics> 
+781,109,51,answer,,3715,3715,, <semantics><mn>2</mn><mo>⁢</mo><mi>θ</mi></semantics> 
+782,109,51,answer,,57,57,, <semantics><mi>β</mi></semantics> 
+783,109,51,answer,,8229927,8229927,, <semantics><mi>β</mi><mo>=</mo><mn>4</mn><mo>⁢</mo><mi>θ</mi></semantics> 
+784,109,51,answer,,8229928,8229928,, <semantics><mi>θ</mi><mo>+</mo><mi>π</mi><mo>/</mo><mn>2</mn><mo>+</mo><mi>α</mi><mo>/</mo><mn>2</mn><mo>=</mo><mi>π</mi></semantics> 
+785,109,51,answer,,8229929,8229929,, <semantics><mi>α</mi><mo>=</mo><mi>π</mi><mo>-</mo><mn>2</mn><mo>⁢</mo><mi>θ</mi></semantics> 
+786,109,51,answer,,8229930,8229930,, <semantics><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>⁢</mo><msup><mi>L</mi><mn>2</mn></msup><mo>⁢</mo><mo>(</mo><mi>α</mi><mo>-</mo><mi>sin</mi><mo>⁡</mo><mi>α</mi><mo>)</mo><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>⁢</mo><msup><mi>R</mi><mn>2</mn></msup><mo>⁢</mo><mo>(</mo><mi>β</mi><mo>-</mo><mi>sin</mi><mo>⁡</mo><mi>β</mi><mo>)</mo><mo>=</mo><msup><mi>R</mi><mn>2</mn></msup><mo>⁢</mo><mo>(</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>⁢</mo><msup><mo>(</mo><mi>L</mi><mo>/</mo><mi>R</mi><mo>)</mo><mn>2</mn></msup><mo>⁢</mo><mo>(</mo><mo>(</mo><mi>π</mi><mo>-</mo><mn>2</mn><mo>⁢</mo><mi>θ</mi><mo>)</mo><mo>-</mo><mi>sin</mi><mo>⁡</mo><mo>(</mo><mi>π</mi><mo>-</mo><mn>2</mn><mo>⁢</mo><mi>θ</mi><mo>)</mo><mo>)</mo><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>⁢</mo><mo>(</mo><mn>4</mn><mo>⁢</mo><mi>θ</mi><mo>-</mo><mi>sin</mi><mo>⁡</mo><mo>(</mo><mn>4</mn><mo>⁢</mo><mi>θ</mi><mo>)</mo><mo>)</mo><mo>)</mo></semantics> 
+787,109,51,answer,,8229931,8229931,, <semantics><mi>a</mi><mo>=</mo><mi>C</mi><mo>⁢</mo><mi>E</mi><mo>=</mo><mi>L</mi><mo>/</mo><mi>R</mi><mo>=</mo><mn>2</mn><mo>⁢</mo><mi>sin</mi><mo>⁡</mo><mo>(</mo><mi>θ</mi><mo>)</mo></semantics> 
+788,109,51,answer,,6606414,6606414,, <semantics><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>⁢</mo><mi>π</mi><mo>⁢</mo><msup><mi>R</mi><mn>2</mn></msup></semantics> 
+789,109,51,answer,,8229932,8229932,, <semantics><msup><mi>R</mi><mn>2</mn></msup><mo>⁢</mo><mo>(</mo><mn>2</mn><mo>⁢</mo><msup><mo>(</mo><mi>sin</mi><mo>⁡</mo><mo>(</mo><mi>θ</mi><mo>)</mo><mo>)</mo><mn>2</mn></msup><mo>⁢</mo><mo>(</mo><mo>(</mo><mi>π</mi><mo>-</mo><mn>2</mn><mo>⁢</mo><mi>θ</mi><mo>)</mo><mo>-</mo><mi>sin</mi><mo>⁡</mo><mo>(</mo><mi>π</mi><mo>-</mo><mn>2</mn><mo>⁢</mo><mi>θ</mi><mo>)</mo><mo>)</mo><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>⁢</mo><mo>(</mo><mn>4</mn><mo>⁢</mo><mi>θ</mi><mo>-</mo><mi>sin</mi><mo>⁡</mo><mo>(</mo><mn>4</mn><mo>⁢</mo><mi>θ</mi><mo>)</mo><mo>)</mo><mo>)</mo><mo>=</mo><msup><mi>R</mi><mn>2</mn></msup><mo>⁢</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></semantics> 
+790,109,51,answer,,8229933,8229933,, <semantics><msup><mi>R</mi><mn>2</mn></msup><mo>(</mo><mi>π</mi><mo>+</mo><mo>(</mo><mn>2</mn><mi>θ</mi><mo>-</mo><mi>π</mi><mo>)</mo><mi>cos</mi><mo>(</mo><mn>2</mn><mi>θ</mi><mo>)</mo><mo>-</mo><mi>sin</mi><mo>(</mo><mn>2</mn><mi>θ</mi><mo>)</mo><mo>=</mo><mfrac><mi>π</mi><mn>2</mn></mfrac><mo>)</mo></semantics> 
+791,109,51,answer,,8229934,8229934,, <semantics><mi>π</mi><mo>+</mo><mi>α</mi><mo>⁢</mo><mi>cos</mi><mo>⁡</mo><mi>α</mi><mo>-</mo><mi>sin</mi><mo>⁡</mo><mi>α</mi></semantics> 
+793,109,51,answer,,8229935,8229935,, <semantics><mi>θ</mi><mo>=</mo><mtext>ca. </mtext><mo>⁢</mo><mn>0.618</mn></semantics> 
+794,109,51,answer,,8229936,8229936,, <semantics><mi>L</mi><mo>=</mo><mtext>ca. </mtext><mo>⁢</mo><mn>1.159</mn><mo>⁢</mo><mi>R</mi></semantics> 
+795,62,51,answer,,26988,26988,, <semantics><mi>π</mi><mo>⁢</mo><msup><mi>r</mi><mn>2</mn></msup></semantics> 
+796,62,51,answer,,25454,25454,, <semantics><msub><mi>r</mi><mn>1</mn></msub></semantics> 
+797,62,51,answer,,15367,15367,, <semantics><msub><mi>r</mi><mn>2</mn></msub></semantics> 
+798,62,51,answer,,8229937,8229937,, <semantics><mfrac><mo>(</mo><mi>π</mi><mo>⁢</mo><msubsup><mi>r</mi><mn>1</mn><mn>2</mn></msubsup><mo>)</mo><mn>2</mn></mfrac><mo>=</mo><mi>π</mi><mo>⁢</mo><msubsup><mi>r</mi><mn>2</mn><mn>2</mn></msubsup></semantics> 
+799,62,51,answer,,8229938,8229938,, <semantics><mfrac><msubsup><mi>r</mi><mn>1</mn><mn>2</mn></msubsup><mn>2</mn></mfrac><mo>=</mo><msubsup><mi>r</mi><mn>2</mn><mn>2</mn></msubsup></semantics> 
+800,62,51,answer,,8229939,8229939,, <semantics><msub><mi>r</mi><mn>2</mn></msub><mo>=</mo><mfrac><msub><mi>r</mi><mn>1</mn></msub><msqrt><mn>2</mn></msqrt></mfrac></semantics> 
+801,62,51,answer,,358,358,, <semantics><mn>2</mn></semantics> 
+802,64,51,answer,,188,188,, <semantics><mi>A</mi></semantics> 
+803,64,51,answer,,256682,256682,, <semantics><mi>A</mi><mo>=</mo><mi>π</mi><mo>⁢</mo><msup><mi>R</mi><mn>2</mn></msup></semantics> 
+804,64,51,answer,,277,277,, <semantics><mi>R</mi></semantics> 
+805,64,51,answer,,180,180,, <semantics><mi>r</mi></semantics> 
+806,64,51,answer,,8229940,8229940,, <semantics><mi>π</mi><mo>⁢</mo><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mi>A</mi><mo>/</mo><mn>2</mn></semantics> 
+807,64,51,answer,,8229941,8229941,, <semantics><mi>π</mi><mo>⁢</mo><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mi>π</mi><mo>⁢</mo><msup><mi>R</mi><mn>2</mn></msup><mo>/</mo><mn>2</mn></semantics> 
+808,64,51,answer,,8229942,8229942,, <semantics><mi>r</mi><mo>=</mo><mi>R</mi><mo>/</mo><msqrt><mo>(</mo></msqrt><mn>2</mn><mo>)</mo></semantics> 
+809,86,56,answer,,1662,1662,, <semantics><msup><mi>ℝ</mi><mi>n</mi></msup></semantics> 
+810,86,56,answer,,1662,1662,, <semantics><msup><mi>ℝ</mi><mi>n</mi></msup></semantics> 
+811,86,56,answer,,2962,2962,, <semantics><msup><mi>ℂ</mi><mi>n</mi></msup></semantics> 
+812,86,56,answer,,881549,881549,," <semantics><mo>⟨</mo><mi>f</mi><mo>,</mo><mi>g</mi><mo>⟩</mo><mo>=</mo><msubsup><mo>∫</mo><mi>a</mi><mi>b</mi></msubsup><mi>f</mi><mo>⁢</mo><mo>(</mo><mi>x</mi><mo>)</mo><mo>⁢</mo><mo><mi>g</mi><mo>⁢</mo><mo>(</mo><mi>x</mi><mo>)</mo><mo>¯</mo></mover><mo>⁢</mo><mo>𝑑</mo><mi>x</mi></semantics> "
+813,86,56,answer,,882,882,," <semantics><mi>f</mi><mo>,</mo><mi>g</mi></semantics> "
+814,86,56,answer,,3186,3186,," <semantics><mo>[</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>]</mo></semantics> "
+815,185690,56,answer,,8229943,8229943,," <semantics><mo>(</mo><mi>𝕍</mi><mo>,</mo><mi>𝔽</mi><mo>)</mo></semantics> "
+816,185690,56,answer,,15458,15458,," <semantics><mo>⟨</mo><mo>,</mo><mo>⟩</mo></semantics> "
+817,185690,56,answer,,8229944,8229944,," <semantics><mo>(</mo><mo>(</mo><mi>V</mi><mo>,</mo><mi>F</mi><mo>)</mo><mo>,</mo><mo>⟨</mo><mo>,</mo><mo>⟩</mo><mo>)</mo></semantics> "
+818,185690,56,answer,,455246,455246,, <semantics><mi>𝕍</mi></semantics> 
+819,185690,56,answer,,2974,2974,, <semantics><mi>𝔽</mi></semantics> 
+820,185690,56,answer,,8229943,8229943,," <semantics><mo>(</mo><mi>𝕍</mi><mo>,</mo><mi>𝔽</mi><mo>)</mo></semantics> "
+821,185690,56,answer,,455246,455246,, <semantics><mi>𝕍</mi></semantics> 
+822,185690,56,answer,,2974,2974,, <semantics><mi>𝔽</mi></semantics> 
+823,185690,56,answer,,8229945,8229945,," <semantics><mo>⟨</mo><mo>,</mo><mo>⟩</mo><mo>:</mo><mi>𝕍</mi><mo>→</mo><mi>𝔽</mi></semantics> "
+824,185690,56,answer,,8229946,8229946,," <semantics><mo>⟨</mo><mo><mi>a</mi><mo>→</mo></mover><mo>,</mo><mo><mi>b</mi><mo>→</mo></mover><mo>⟩</mo><mo>=</mo><mi>c</mi></semantics> "
+825,185690,56,answer,,455246,455246,, <semantics><mi>𝕍</mi></semantics> 
+826,185690,56,answer,,2974,2974,, <semantics><mi>𝔽</mi></semantics> 
+827,185690,56,answer,,930451,930451,," <semantics><mo>⟨</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>⟩</mo><mo>=</mo><mo><mo>⟨</mo><mi>b</mi><mo>,</mo><mi>a</mi><mo>⟩</mo><mo>¯</mo></mover></semantics> "
+828,185690,56,answer,,34144,34144,," <semantics><mo>⟨</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>⟩</mo></semantics> "
+829,185690,56,answer,,385809,385809,," <semantics><mo>⟨</mo><mi>b</mi><mo>,</mo><mi>a</mi><mo>⟩</mo></semantics> "
+830,185690,56,answer,,1000608,1000608,," <semantics><mo>⟨</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>⟩</mo><mo>=</mo><mo>⟨</mo><mi>b</mi><mo>,</mo><mi>a</mi><mo>⟩</mo></semantics> "
+831,185690,56,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+832,185690,56,answer,,8229947,8229947,," <semantics><mo>⟨</mo><mi>x</mi><mo>⁢</mo><mi>a</mi><mo>+</mo><mi>y</mi><mo>,</mo><mi>b</mi><mo>⟩</mo><mo>=</mo><mo>⟨</mo><mi>x</mi><mo>⁢</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>⟩</mo><mo>+</mo><mo>⟨</mo><mi>y</mi><mo>,</mo><mi>b</mi><mo>⟩</mo></semantics> "
+833,185690,56,answer,,155647,155647,," <semantics><mo>⟨</mo><mi>x</mi><mo>,</mo><mi>x</mi><mo>⟩</mo><mo>≥</mo><mn>0</mn></semantics> "
+834,185690,56,answer,,41444,41444,, <semantics><mo>||</mo><mi>x</mi><mo>||</mo></semantics> 
+835,185690,56,answer,,2889519,2889519,," <semantics><msqrt><mo>⟨</mo><mi>x</mi><mo>,</mo><mi>x</mi><mo>⟩</mo></msqrt></semantics> "
+839,57,57,question,,50360,50360,, <semantics><mi>R</mi><mo>→</mo><mi>R</mi></semantics> 
+840,57,57,question,,43093,43093,, <semantics><mi>R</mi><mo>→</mo><mi>S</mi></semantics> 
+841,57,57,question,,451998,451998,, <semantics><mi>S</mi><mo>→</mo><mi>R</mi></semantics> 
+842,57,57,question,,43093,43093,, <semantics><mi>R</mi><mo>→</mo><mi>S</mi></semantics> 
+843,57,57,question,,50360,50360,, <semantics><mi>R</mi><mo>→</mo><mi>R</mi></semantics> 
+844,57,57,question,,7680,7680,, <semantics><mi>S</mi><mo>→</mo><mi>S</mi></semantics> 
+845,57,57,question,,43093,43093,, <semantics><mi>R</mi><mo>→</mo><mi>S</mi></semantics> 
+846,57,57,question,,50360,50360,, <semantics><mi>R</mi><mo>→</mo><mi>R</mi></semantics> 
+847,57,57,question,,7680,7680,, <semantics><mi>S</mi><mo>→</mo><mi>S</mi></semantics> 
+848,57,57,question,,43093,43093,, <semantics><mi>R</mi><mo>→</mo><mi>S</mi></semantics> 
+849,57,57,question,,420968,420968,, <semantics><mi>S</mi><mo>→</mo><mi>T</mi></semantics> 
+850,57,57,question,,800000,800000,, <semantics><mi>R</mi><mo>→</mo><mi>T</mi></semantics> 
+851,57,57,comment,6278367.0,8252,8252,, <semantics><mi>x</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>y</mi></semantics> 
+852,57,57,comment,6278367.0,277,277,, <semantics><mi>R</mi></semantics> 
+853,57,57,comment,6278367.0,277,277,, <semantics><mi>R</mi></semantics> 
+854,57,57,comment,6278367.0,827,827,, <semantics><mo>≥</mo></semantics> 
+855,57,57,comment,6278367.0,3609,3609,, <semantics><mo>=</mo></semantics> 
+856,57,57,comment,6278367.0,277,277,, <semantics><mi>R</mi></semantics> 
+857,134,57,answer,,277,277,, <semantics><mi>R</mi></semantics> 
+858,134,57,answer,,403,403,, <semantics><mi>S</mi></semantics> 
+859,134,57,answer,,319,319,, <semantics><mi>T</mi></semantics> 
+860,134,57,answer,,921,921,," <semantics><mi>x</mi><mo>,</mo><mi>y</mi></semantics> "
+861,134,57,answer,,44,44,, <semantics><mi>z</mi></semantics> 
+862,134,57,answer,,8229948,8229948,, <semantics><mi>x</mi><mo>:</mo><mi>x</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>x</mi></semantics> 
+863,134,57,answer,,8252,8252,, <semantics><mi>x</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>y</mi></semantics> 
+864,134,57,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+865,134,57,answer,,68,68,, <semantics><mi>y</mi></semantics> 
+866,134,57,answer,,921,921,," <semantics><mi>x</mi><mo>,</mo><mi>y</mi></semantics> "
+867,134,57,answer,,8252,8252,, <semantics><mi>x</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>y</mi></semantics> 
+868,134,57,answer,,52692,52692,, <semantics><mi>y</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>x</mi></semantics> 
+869,134,57,answer,,8252,8252,, <semantics><mi>x</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>y</mi></semantics> 
+870,134,57,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+871,134,57,answer,,68,68,, <semantics><mi>y</mi></semantics> 
+872,134,57,answer,,358,358,, <semantics><mn>2</mn></semantics> 
+873,134,57,answer,,921,921,," <semantics><mi>x</mi><mo>,</mo><mi>y</mi></semantics> "
+874,134,57,answer,,8252,8252,, <semantics><mi>x</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>y</mi></semantics> 
+875,134,57,answer,,52692,52692,, <semantics><mi>y</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>x</mi></semantics> 
+876,134,57,answer,,3940,3940,, <semantics><mi>x</mi><mo>=</mo><mi>y</mi></semantics> 
+877,134,57,answer,,8252,8252,, <semantics><mi>x</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>y</mi></semantics> 
+878,134,57,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+879,134,57,answer,,68,68,, <semantics><mi>y</mi></semantics> 
+880,134,57,answer,,921,921,," <semantics><mi>x</mi><mo>,</mo><mi>y</mi></semantics> "
+881,134,57,answer,,8252,8252,, <semantics><mi>x</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>y</mi></semantics> 
+882,134,57,answer,,52692,52692,, <semantics><mi>y</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>x</mi></semantics> 
+883,134,57,answer,,8252,8252,, <semantics><mi>x</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>y</mi></semantics> 
+884,134,57,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+885,134,57,answer,,68,68,, <semantics><mi>y</mi></semantics> 
+886,134,57,answer,,1462,1462,," <semantics><mi>x</mi><mo>,</mo><mi>y</mi><mo>,</mo><mi>z</mi></semantics> "
+887,134,57,answer,,8252,8252,, <semantics><mi>x</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>y</mi></semantics> 
+888,134,57,answer,,8253,8253,, <semantics><mi>y</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>z</mi></semantics> 
+889,134,57,answer,,107756,107756,, <semantics><mi>x</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>z</mi></semantics> 
+890,134,57,answer,,8252,8252,, <semantics><mi>x</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>y</mi></semantics> 
+891,134,57,answer,,67,67,, <semantics><mi>x</mi></semantics> 
+892,134,57,answer,,68,68,, <semantics><mi>y</mi></semantics> 
+893,134,57,comment,6278388.0,38516,38516,, <semantics><mi>x</mi><mo>></mo><mi>y</mi></semantics> 
+894,134,57,comment,6278388.0,40535,40535,, <semantics><mi>y</mi><mo>></mo><mi>x</mi></semantics> 
+895,134,57,comment,6278388.0,7431,7431,, <semantics><mi>x</mi><mo>≥</mo><mi>y</mi></semantics> 
+896,134,57,comment,6278388.0,167239,167239,, <semantics><mi>y</mi><mo>≥</mo><mi>x</mi></semantics> 
+897,134,57,comment,6278388.0,3940,3940,, <semantics><mi>x</mi><mo>=</mo><mi>y</mi></semantics> 
+898,352,57,comment,6279085.0,8229949,8229949,, <semantics><mo>(</mo><mi>a</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>b</mi><mo>⇒</mo><mi>b</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>a</mi><mo>)</mo></semantics> 
+899,3045870,57,answer,,827,827,, <semantics><mo>≥</mo></semantics> 
+900,3045870,57,answer,,3609,3609,, <semantics><mo>=</mo></semantics> 
+901,3045870,57,answer,,28679,28679,, <semantics><mo>⊂</mo></semantics> 
+902,3045870,57,answer,,3609,3609,, <semantics><mo>=</mo></semantics> 
+903,3045870,57,answer,,51,51,, <semantics><mo>></mo></semantics> 
+904,3045870,57,answer,,368777,368777,, <semantics><mo>(</mo><mi>a</mi><mo>></mo><mi>b</mi><mo>)</mo></semantics> 
+905,3045870,57,answer,,81993,81993,, <semantics><mo>(</mo><mi>b</mi><mo>></mo><mi>a</mi><mo>)</mo></semantics> 
+906,3045870,57,answer,,277,277,, <semantics><mi>R</mi></semantics> 
+907,3045870,57,answer,,8229950,8229950,, <semantics><mo>(</mo><mi>a</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>b</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>c</mi><mo>)</mo><mo>⇒</mo><mo>(</mo><mi>a</mi><mo>⁢</mo><mi>R</mi><mo>⁢</mo><mi>c</mi><mo>)</mo></semantics> 
+908,3045870,57,answer,,368,368,, <semantics><mi>b</mi></semantics> 
+909,3045870,57,answer,,159,159,, <semantics><mi>a</mi></semantics> 
+910,3045870,57,answer,,146,146,, <semantics><mi>c</mi></semantics> 
+911,59,59,title,,358,358,, <semantics><mn>2</mn></semantics> 
+912,59,59,question,,828,828,," <semantics><mo>(</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo>)</mo></semantics> "
+913,59,59,question,,35195,35195,, <semantics><mn>2</mn><mo>⁢</mo><mi>D</mi></semantics> 
+914,59,59,question,,12908,12908,, <semantics><msub><mi>p</mi><mn>1</mn></msub></semantics> 
+915,59,59,question,,11032,11032,, <semantics><msub><mi>p</mi><mn>2</mn></msub></semantics> 
+916,59,59,question,,35824,35824,, <semantics><mn>3</mn><mo>⁢</mo><mi>D</mi></semantics> 
+917,65,59,answer,,144562,144562,, <semantics><msub><mo><mi>p</mi><mo>→</mo></mover><mn>1</mn></msub></semantics> 
+918,65,59,answer,,144563,144563,, <semantics><msub><mo><mi>p</mi><mo>→</mo></mover><mn>2</mn></msub></semantics> 
+919,65,59,answer,,8229951,8229951,, <semantics><msub><mo><mi>p</mi><mo>→</mo></mover><mn>1</mn></msub><mo>⋅</mo><msub><mo><mi>p</mi><mo>→</mo></mover><mn>2</mn></msub><mo>=</mo><mo>|</mo><msub><mo><mi>p</mi><mo>→</mo></mover><mn>1</mn></msub><mo>|</mo><mo>⋅</mo><mo>|</mo><msub><mo><mi>p</mi><mo>→</mo></mover><mn>2</mn></msub><mo>|</mo><mo>⋅</mo><mi>cos</mi><mo>⁡</mo><mi>θ</mi></semantics> 
+920,65,59,answer,,206,206,, <semantics><mi>θ</mi></semantics> 
+921,65,59,answer,,8229952,8229952,, <semantics><mi>θ</mi><mo>=</mo><mi>arccos</mi><mo>⁡</mo><mo>(</mo><mfrac><msub><mo><mi>p</mi><mo>→</mo></mover><mn>1</mn></msub><mo>⋅</mo><msub><mo><mi>p</mi><mo>→</mo></mover><mn>2</mn></msub><mo>|</mo><msub><mo><mi>p</mi><mo>→</mo></mover><mn>1</mn></msub><mo>|</mo><mo>⋅</mo><mo>|</mo><msub><mo><mi>p</mi><mo>→</mo></mover><mn>2</mn></msub><mo>|</mo></mfrac><mo>)</mo></semantics> 
+922,65,59,answer,,8229953,8229953,, <semantics><mi>v</mi><mo>=</mo><mi>arccos</mi><mo>⁡</mo><mo>(</mo><mfrac><msub><mi>x</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>x</mi><mn>2</mn></msub><mo>+</mo><msub><mi>y</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>y</mi><mn>2</mn></msub><msqrt><mo>(</mo><msubsup><mi>x</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>y</mi><mn>1</mn><mn>2</mn></msubsup><mo>)</mo><mo>⋅</mo><mo>(</mo><msubsup><mi>x</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>y</mi><mn>2</mn><mn>2</mn></msubsup><mo>)</mo></msqrt></mfrac><mo>)</mo></semantics> 
+923,65,59,answer,,8229954,8229954,, <semantics><mi>v</mi><mo>=</mo><mi>arccos</mi><mo>⁡</mo><mo>(</mo><mfrac><msub><mi>x</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>x</mi><mn>2</mn></msub><mo>+</mo><msub><mi>y</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>y</mi><mn>2</mn></msub><mo>+</mo><msub><mi>z</mi><mn>1</mn></msub><mo>⁢</mo><msub><mi>z</mi><mn>2</mn></msub><msqrt><mo>(</mo><msubsup><mi>x</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>y</mi><mn>1</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>z</mi><mn>1</mn><mn>2</mn></msubsup><mo>)</mo><mo>⋅</mo><mo>(</mo><msubsup><mi>x</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>y</mi><mn>2</mn><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>z</mi><mn>2</mn><mn>2</mn></msubsup><mo>)</mo></msqrt></mfrac><mo>)</mo></semantics> 
+924,2779172,59,answer,,15785,15785,," <semantics><mo>(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>y</mi><mn>1</mn></msub><mo>)</mo></semantics> "
+925,2779172,59,answer,,38924,38924,," <semantics><mo>(</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>y</mi><mn>2</mn></msub><mo>)</mo></semantics> "
+926,2779172,59,answer,,206,206,, <semantics><mi>θ</mi></semantics> 
+927,2779172,59,answer,,3609,3609,, <semantics><mo>=</mo></semantics> 
+928,2779172,59,answer,,8229955,8229955,, <semantics><mi>θ</mi><mo>=</mo><mi>T</mi><mo>⁢</mo><mi>a</mi><mo>⁢</mo><msup><mi>n</mi><mo>-</mo><mn>1</mn></msup><mo>⁢</mo><mfrac><msub><mi>y</mi><mn>2</mn></msub><msub><mi>x</mi><mn>2</mn></msub></mfrac><mo>-</mo><mi>T</mi><mo>⁢</mo><mi>a</mi><mo>⁢</mo><msup><mi>n</mi><mo>-</mo><mn>1</mn></msup><mo>⁢</mo><mfrac><msub><mi>y</mi><mn>1</mn></msub><msub><mi>x</mi><mn>1</mn></msub></mfrac></semantics> 
+929,137,67,answer,,8229956,8229956,, <semantics><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><mi>A</mi><mo>⁢</mo><mi>x</mi><mo>+</mo><mi>B</mi></semantics> 
+930,137,67,answer,,48617,48617,, <semantics><msup><mi>m</mi><mn>2</mn></msup></semantics> 
+931,137,67,answer,,20,20,, <semantics><mi>m</mi></semantics> 
+932,74,74,question,,115,115,, <semantics><mi>X</mi></semantics> 
+933,74,74,question,,220726,220726,, <semantics><mi>Y</mi></semantics> 
+934,74,74,question,,1066026,1066026,, <semantics><mi>Y</mi><mo>=</mo><mi>X</mi><mo>+</mo><mi>Z</mi></semantics> 
+935,74,74,question,,115,115,, <semantics><mi>X</mi></semantics> 
+936,74,74,question,,388,388,, <semantics><mi>Z</mi></semantics> 
+937,74,74,question,,220726,220726,, <semantics><mi>Y</mi></semantics> 
+938,74,74,question,,388,388,, <semantics><mi>Z</mi></semantics> 
+939,74,74,question,,115,115,, <semantics><mi>X</mi></semantics> 
+940,74,74,question,,388,388,, <semantics><mi>Z</mi></semantics> 
+941,1273,74,answer,,8229957,8229957,, <semantics><msub><mi>φ</mi><mi>Y</mi></msub><mo>⁢</mo><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mi>E</mi><mo>⁢</mo><mo>[</mo><msup><mi>e</mi><mi>i</mi><mo>⁢</mo><mi>t</mi><mo>⁢</mo><mi>Y</mi></msup><mo>]</mo><mo>=</mo><mi>E</mi><mo>⁢</mo><mo>[</mo><msup><mi>e</mi><mi>i</mi><mo>⁢</mo><mi>t</mi><mo>⁢</mo><mo>(</mo><mi>X</mi><mo>+</mo><mi>Z</mi><mo>)</mo></msup><mo>]</mo><mo>=</mo><mi>E</mi><mo>⁢</mo><mo>[</mo><msup><mi>e</mi><mi>i</mi><mo>⁢</mo><mi>t</mi><mo>⁢</mo><mi>X</mi></msup><mo>]</mo><mo>⁢</mo><mi>E</mi><mo>⁢</mo><mo>[</mo><msup><mi>e</mi><mi>i</mi><mo>⁢</mo><mi>t</mi><mo>⁢</mo><mi>Z</mi></msup><mo>]</mo></semantics> 
+942,1273,74,answer,,8229958,8229958,, <semantics><msub><mi>φ</mi><mi>Z</mi></msub><mo>⁢</mo><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mi>E</mi><mo>⁢</mo><mo>[</mo><msup><mi>e</mi><mi>i</mi><mo>⁢</mo><mi>t</mi><mo>⁢</mo><mi>Z</mi></msup><mo>]</mo><mo>=</mo><mi>E</mi><mo>⁢</mo><mo>[</mo><msup><mi>e</mi><mi>i</mi><mo>⁢</mo><mi>t</mi><mo>⁢</mo><mi>Y</mi></msup><mo>]</mo><mo>/</mo><mi>E</mi><mo>⁢</mo><mo>[</mo><msup><mi>e</mi><mi>i</mi><mo>⁢</mo><mi>t</mi><mo>⁢</mo><mi>X</mi></msup><mo>]</mo></semantics> 
+943,91,75,comment,5933084.0,342,342,, <semantics><mn>1</mn></semantics> 
+945,180,75,answer,,336470,336470,, <semantics><mi>x</mi><mo>→</mo><msup><mi>x</mi><mo>-</mo><mn>1</mn></msup></semantics> 
+946,271878,75,answer,,673,673,, <semantics><mi>G</mi></semantics> 
+947,271878,75,answer,,1756357,1756357,, <semantics><msup><mi>G</mi><mtext>op</mtext></msup></semantics> 
+948,271878,75,answer,,301532,301532,, <semantics><mi>g</mi><mo>↦</mo><msup><mi>g</mi><mo>-</mo><mn>1</mn></msup></semantics> 
+949,271878,75,answer,,673,673,, <semantics><mi>G</mi></semantics> 
+950,271878,75,answer,,277,277,, <semantics><mi>R</mi></semantics> 
+951,271878,75,answer,,277,277,, <semantics><mi>R</mi></semantics> 
+952,20092,77,answer,,9946,9946,, <semantics><mo>×</mo></semantics> 
+953,102,83,comment,1249168.0,8229959,8229959,, <semantics><mi><math>  <math>  /mi><mo>⁢</mo><mi>s</mi><mo>⁢</mo><mi>m</mi><mo>⁢</mo><mi>a</mi><mo>⁢</mo><mi>r</mi><mo>⁢</mo><mi>t</mi><mo>⁢</mo><mi><math>  <math>  /mi></semantics> 
+954,97,97,title,,153481,153481,, <semantics><mi>erf</mi><mo>⁡</mo><mo>(</mo><mi>x</mi><mo>)</mo></semantics> 
+955,97,97,question,,115180,115180,, <semantics><mi>erf</mi><mo>⁡</mo><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mfrac><mn>2</mn><msqrt><mi>π</mi></msqrt></mfrac><mo>⁢</mo><msubsup><mo>∫</mo><mn>0</mn><mi>x</mi></msubsup><msup><mi>e</mi><mo>-</mo><msup><mi>t</mi><mn>2</mn></msup></msup><mo>⁢</mo><mo>𝑑</mo><mi>t</mi></semantics> 
+957,1224,97,answer,,188110,188110,, <semantics><mi>exp</mi><mo>⁡</mo><mo>(</mo><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mo>)</mo></semantics> 
+959,996598,97,answer,,8229960,8229960,," <semantics><mi>M</mi><mo>⁢</mo><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>z</mi><mo>)</mo><mo>=</mo><munderover><mo>∑</mo><mi>s</mi><mo>=</mo><mn>0</mn><mi>∞</mi></munderover><mfrac><msub><mo>(</mo><mi>a</mi><mo>)</mo><mi>s</mi></msub><msub><mo>(</mo><mi>b</mi><mo>)</mo><mi>s</mi></msub><mo>⁢</mo><mi>s</mi><mo>!</mo></mfrac><mo>⁢</mo><msup><mi>z</mi><mi>s</mi></msup><mo>=</mo><mn>1</mn><mo>+</mo><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>⁢</mo><mi>z</mi><mo>+</mo><mfrac><mi>a</mi><mo>⁢</mo><mo>(</mo><mi>a</mi><mo>+</mo><mn>1</mn><mo>)</mo><mi>b</mi><mo>⁢</mo><mo>(</mo><mi>b</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>⁢</mo><mn>2</mn><mo>!</mo></mfrac><mo>⁢</mo><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><mi>…</mi><mo>,</mo><mi>z</mi><mo>∈</mo><mi>ℂ</mi></semantics> "
+960,996598,97,answer,,8229961,8229961,," <semantics><mi>M</mi><mo>⁢</mo><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>z</mi><mo>)</mo><mo>=</mo><munderover><mo>∑</mo><mi>s</mi><mo>=</mo><mn>0</mn><mi>∞</mi></munderover><mfrac><msub><mo>(</mo><mi>a</mi><mo>)</mo><mi>s</mi></msub><mi>Γ</mi><mo>⁢</mo><mo>(</mo><mi>b</mi><mo>+</mo><mi>s</mi><mo>)</mo><mo>⁢</mo><mi>s</mi><mo>!</mo></mfrac><mo>⁢</mo><msup><mi>z</mi><mi>s</mi></msup></semantics> "
+961,996598,97,answer,,8229962,8229962,," <semantics><mtext>erf</mtext><mo>⁢</mo><mo>(</mo><mi>z</mi><mo>)</mo><mo>=</mo><mfrac><mn>2</mn><mo>⁢</mo><mi>z</mi><msqrt><mi>π</mi></msqrt></mfrac><mo>⁢</mo><mi>M</mi><mo>⁢</mo><mo>(</mo><mn>.5</mn><mo>,</mo><mn>1.5</mn><mo>,</mo><mo>-</mo><msup><mi>z</mi><mn>2</mn></msup><mo>)</mo><mo>=</mo><mfrac><mn>2</mn><mo>⁢</mo><mi>z</mi><msqrt><mi>π</mi></msqrt></mfrac><mo>⁢</mo><msup><mi>e</mi><mo>-</mo><msup><mi>z</mi><mn>2</mn></msup></msup><mo>⁢</mo><mi>M</mi><mo>⁢</mo><mo>(</mo><mn>1</mn><mo>,</mo><mn>1.5</mn><mo>,</mo><msup><mi>z</mi><mn>2</mn></msup><mo>)</mo></semantics> "
+966,101,101,question,,3581,3581,, <semantics><mn>13</mn></semantics> 
+967,101,101,question,,10141,10141,, <semantics><mn>50</mn></semantics> 
+968,101,101,question,,8229965,8229965,, <semantics><mn>37107287533902102798797998220837590246510135740250</mn></semantics> 
+969,101,101,question,,8229966,8229966,, <semantics><mn>0135740250</mn></semantics> 
+970,101,101,question,,34260,34260,, <semantics><mn>64</mn></semantics> 
+971,101,101,question,,1593,1593,, <semantics><mn>10</mn></semantics> 
+974,107,107,title,,2775866,2775866,, <semantics><mn>0</mn></semantics> 
+975,107,107,question,,1593,1593,, <semantics><mn>10</mn></semantics> 
+976,107,107,question,,342,342,, <semantics><mn>1</mn></semantics> 
+977,107,107,question,,1593,1593,, <semantics><mn>10</mn></semantics> 
+978,107,107,question,,2851,2851,, <semantics><mn>30</mn></semantics> 
+979,107,107,question,,342,342,, <semantics><mn>1</mn></semantics> 
+980,107,107,question,,358,358,, <semantics><mn>2</mn></semantics> 
+981,107,107,question,,305,305,, <semantics><mn>3</mn></semantics> 
+982,107,107,question,,1593,1593,, <semantics><mn>10</mn></semantics> 
+983,107,107,question,,3056,3056,, <semantics><mn>45</mn></semantics> 
+984,107,107,question,,358,358,, <semantics><mn>2</mn></semantics> 
+985,107,107,question,,305,305,, <semantics><mn>3</mn></semantics> 
+986,107,107,question,,1253,1253,, <semantics><mn>4</mn></semantics> 
+987,107,107,question,,1253,1253,, <semantics><mn>4</mn></semantics> 
+988,107,107,question,,339,339,, <semantics><mn>5</mn></semantics> 
+989,107,107,question,,340,340,, <semantics><mn>6</mn></semantics> 
+990,107,107,question,,3739,3739,, <semantics><mn>7</mn></semantics> 
+991,107,107,question,,96848,96848,, <semantics><mn>7.5</mn></semantics> 
+992,107,107,question,,3290,3290,, <semantics><mn>11</mn></semantics> 
+993,107,107,question,,1253,1253,, <semantics><mn>4</mn></semantics> 
+994,107,107,question,,339,339,, <semantics><mn>5</mn></semantics> 
+995,107,107,question,,340,340,, <semantics><mn>6</mn></semantics> 
+996,107,107,question,,2663,2663,, <semantics><mn>8</mn></semantics> 
+997,107,107,question,,2663,2663,, <semantics><mn>8</mn></semantics> 
+998,107,107,question,,3052,3052,, <semantics><mn>9</mn></semantics> 
+999,107,107,question,,1593,1593,, <semantics><mn>10</mn></semantics> 
+1000,107,107,question,,3290,3290,, <semantics><mn>11</mn></semantics>

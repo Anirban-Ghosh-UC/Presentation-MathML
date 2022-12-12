@@ -1,0 +1,620 @@
+import re
+from array import *
+formula=[]
+post=[]
+formula_id=[]
+f3=open("/content/gdrive/My Drive/data/2.txt", "w")
+ # f3.truncate(0)
+with open('/content/gdrive/My Drive/data/1.txt', 'r+') as f2:
+
+  ff=f2.readlines()
+  for line in ff:
+    post.append(line.split('\t')[1])
+    formula_id.append(line.split('\t')[0])
+    p0=((line.find('<mi>a</mi>'))or(line.find('<mi>A</mi>')))
+    if p0!=-1:
+      formula.append(0)
+     
+    p1=(line.find('<mi>b</mi>'))or(line.find('<mi>B</mi>'))
+    if p1!=-1:
+      formula.append(1)
+   
+    p1=(line.find('<mi>c</mi>'))or(line.find('<mi>C</mi>'))
+    if p1!=-1:
+      formula.append(2)
+   
+    p1=(line.find('<mi>d</mi>'))or(line.find('<mi>D</mi>'))
+    if p1!=-1:
+      formula.append(3)
+   
+    p1=(line.find('<mi>e</mi>'))or(line.find('<mi>E</mi>'))or(line.find('<mi>exp</mi>'))
+    if p1!=-1:
+      formula.append(4)
+   
+    p1=(line.find('<mi>f</mi>'))or(line.find('<mi>F</mi>'))
+    if p1!=-1:
+      formula.append(5)
+   
+    p1=(line.find('<mi>g</mi>'))or(line.find('<mi>G</mi>'))
+    if p1!=-1:
+      formula.append(6)
+   
+    p1=(line.find('<mi>h</mi>'))or(line.find('<mi>H</mi>'))
+    if p1!=-1:
+      formula.append(7)
+   
+    p1=(line.find('<mi>i</mi>'))or(line.find('<mi>I</mi>'))
+    if p1!=-1:
+      formula.append(8)
+   
+    p1=(line.find('<mi>j</mi>'))or(line.find('<mi>J</mi>'))
+    if p1!=-1:
+      formula.append(9)
+   
+    p1=(line.find('<mi>k</mi>'))or(line.find('<mi>K</mi>'))
+    if p1!=-1:
+      formula.append(10)
+   
+    p1=(line.find('<mi>l</mi>'))or(line.find('<mi>L</mi>'))
+    if p1!=-1:
+      formula.append(11)
+   
+    p1=(line.find('<mi>m</mi>'))or(line.find('<mi>M</mi>'))
+    if p1!=-1:
+      formula.append(12)
+   
+    p1=(line.find('<mi>n</mi>'))or(line.find('<mi>N</mi>'))
+    if p1!=-1:
+      formula.append(13)
+   
+    p1=(line.find('<mi>o</mi>'))or(line.find('<mi>O</mi>'))
+    if p1!=-1:
+      formula.append(14)
+   
+    p1=(line.find('<mi>p</mi>'))or(line.find('<mi>P</mi>'))
+    if p1!=-1:
+      formula.append(15)
+   
+    p1=(line.find('<mi>q</mi>'))or(line.find('<mi>Q</mi>'))
+    if p1!=-1:
+      formula.append(16)
+   
+    p1=(line.find('<mi>r</mi>'))or(line.find('<mi>R</mi>'))
+    if p1!=-1:
+      formula.append(17)
+   
+    p1=(line.find('<mi>s</mi>'))or(line.find('<mi>S</mi>'))
+    if p1!=-1:
+      formula.append(18)
+   
+    p1=(line.find('<mi>t</mi>'))or(line.find('<mi>T</mi>'))
+    if p1!=-1:
+      formula.append(19)
+   
+    p1=(line.find('<mi>u</mi>'))or(line.find('<mi>U</mi>'))
+    if p1!=-1:
+      formula.append(20)
+   
+    p1=(line.find('<mi>v</mi>'))or(line.find('<mi>V</mi>'))
+    if p1!=-1:
+      formula.append(21)
+   
+    p1=(line.find('<mi>w</mi>'))or(line.find('<mi>W</mi>'))
+    if p1!=-1:
+      formula.append(22)
+   
+    p1=(line.find('<mi>x</mi>'))or(line.find('<mi>X</mi>'))
+    if p1!=-1:
+      formula.append(23)
+   
+    p1=(line.find('<mi>y</mi>'))or(line.find('<mi>Y</mi>'))
+    if p1!=-1:
+      formula.append(24)
+   
+    p1=(line.find('<mi>z</mi>'))or(line.find('<mi>Z</mi>'))
+    if p1!=-1:
+      formula.append(25)
+
+    p1=(line.find('<mo>=</mo>'))
+    if p1!=-1:
+      formula.append(26)
+
+    p1=(line.find('<mo> </mo>'))
+    if p1!=-1:
+      formula.append(27)
+   
+    p1=(line.find('<mo>-</mo>'))
+    if p1!=-1:
+      formula.append(28)
+
+    p1=(line.find('<mo>,</mo>'))
+    if p1!=-1:
+      formula.append(29)
+
+    p1=(line.find('<mo>+</mo>'))
+    if p1!=-1:
+      formula.append(30)
+
+    p1=(line.find('<mo>∇</mo>'))
+    if p1!=-1:
+      formula.append(31)
+
+    p1=(line.find('<mo>∂</mo>'))
+    if p1!=-1:
+      formula.append(32)
+
+    p1=(line.find('<mo>→</mo>'))
+    if p1!=-1:
+      formula.append(33)
+
+    p1=(line.find('<mo>.</mo>'))
+    if p1!=-1:
+      formula.append(34)
+
+    p1=(line.find('<mo>(</mo>'))
+    if p1!=-1:
+      formula.append(35)
+
+    p1=(line.find('<mo>)</mo>'))
+    if p1!=-1:
+      formula.append(36)
+
+    p1=(line.find('<mo>≡</mo>'))
+    if p1!=-1:
+      formula.append(37)
+
+    p1=(line.find('<mo>≫</mo>'))
+    if p1!=-1:
+      formula.append(38)
+
+    p1=(line.find('<mo>∝</mo>'))
+    if p1!=-1:
+      formula.append(39)
+
+    p1=(line.find('<mo>≈</mo>'))
+    if p1!=-1:
+      formula.append(40)
+
+    p1=(line.find('<mo>/</mo>'))
+    if p1!=-1:
+      formula.append(41)
+
+    p1=(line.find('<mo>⊆</mo>'))
+    if p1!=-1:
+      formula.append(42)
+
+    p1=(line.find('<mo>⊕</mo>'))
+    if p1!=-1:
+      formula.append(43)
+
+    p1=(line.find('<mo>∼</mo>'))
+    if p1!=-1:
+      formula.append(44)
+
+    p1=(line.find('<mo>|</mo>'))
+    if p1!=-1:
+      formula.append(45)
+
+    p1=(line.find('<mfrac>'))
+    if p1!=-1:
+      formula.append(46)
+
+    p1=(line.find('<mn>'))or(line.find('<qvar>'))
+    if p1!=-1:
+      formula.append(47)
+
+    p1=(line.find('<msub>'))
+    if p1!=-1:
+      formula.append(48)
+
+    p1=(line.find('<msup>'))
+    if p1!=-1:
+      formula.append(49)
+
+    p1=(line.find('<msubsup>'))
+    if p1!=-1:
+      formula.append(50)
+
+    p1=(line.find('<mover>'))
+    if p1!=-1:
+      formula.append(51)
+
+    p1=(line.find('<munderover>'))
+    if p1!=-1:
+      formula.append(52)
+
+    p1=(line.find('<munder>'))
+    if p1!=-1:
+      formula.append(53)
+
+    p1=(line.find('<mtable>'))
+    if p1!=-1:
+      formula.append(54)
+
+    p1=(line.find('<mmultiscripts>'))
+    if p1!=-1:
+      formula.append(55)
+
+    p1=(line.find('<msqrt>'))
+    if p1!=-1:
+      formula.append(56)
+
+    p1=(line.find('<mi>ℤ</mi>'))
+    if p1!=-1:
+      formula.append(57)
+
+    p1=(line.find('<mi>ℕ</mi>'))
+    if p1!=-1:
+      formula.append(58)
+
+    p1=(line.find('<mi>ℚ</mi>'))
+    if p1!=-1:
+      formula.append(59)
+
+    p1=(line.find('<mi>⌝</mi>'))
+    if p1!=-1:
+      formula.append(60)
+
+    p1=(line.find('<mi>α</mi>'))
+    if p1!=-1:
+      formula.append(61)
+
+    p1=(line.find('<mi>γ</mi>'))
+    if p1!=-1:
+      formula.append(62)
+
+    p1=(line.find('<mi>ω</mi>'))
+    if p1!=-1:
+      formula.append(63)
+
+    p1=(line.find('<mi>ϑ</mi>'))
+    if p1!=-1:
+      formula.append(64)
+
+    p1=(line.find('<mi>Null</mi>'))
+    if p1!=-1:
+      formula.append(66)
+
+    p1=(line.find('<mo>†</mo>'))
+    if p1!=-1:
+      formula.append(67)
+
+    p1=(line.find('<mo>:</mo>'))
+    if p1!=-1:
+      formula.append(68)
+
+    p1=(line.find('<mo>dist</mo>'))
+    if p1!=-1:
+      formula.append(69)
+
+    p1=(line.find('<mo>∓</mo>'))
+    if p1!=-1:
+      formula.append(70)
+
+    p1=(line.find('<mi>ϕ</mi>'))or(line.find('<mi>∅</mi>'))
+    if p1!=-1:
+      formula.append(71)
+
+    p1=(line.find('<mi>ℏ</mi>'))
+    if p1!=-1:
+      formula.append(72)
+
+    p1=(line.find('<mi>π</mi>'))
+    if p1!=-1:
+      formula.append(73)
+      
+    p1=(line.find('<mi>Δ</mi>'))
+    if p1!=-1:
+      formula.append(74)
+
+    p1=(line.find('<mi>µ</mi>'))
+    if p1!=-1:
+      formula.append(75)
+
+    p1=(line.find('<mi>Σ</mi>'))
+    if p1!=-1:
+      formula.append(76)
+
+    p1=(line.find('<mi>ϵ</mi>'))
+    if p1!=-1:
+      formula.append(77)
+
+    p1=(line.find('<mi>…</mi>'))
+    if p1!=-1:
+      formula.append(78)
+
+    p1=(line.find('<mi>δ</mi>'))
+    if p1!=-1:
+      formula.append(79)
+
+    p1=(line.find('<mi>Ψ</mi>'))or(line.find('<mi>ψ</mi>'))
+    if p1!=-1:
+      formula.append(80)
+
+    p1=(line.find('<mi>Γ</mi>'))
+    if p1!=-1:
+      formula.append(81)
+
+    p1=(line.find('<mi>∞</mi>'))
+    if p1!=-1:
+      formula.append(82)
+
+    p1=(line.find('<mi>ρ</mi>'))
+    if p1!=-1:
+      formula.append(83)
+
+    p1=(line.find('<mi>β</mi>'))
+    if p1!=-1:
+      formula.append(84)
+
+    p1=(line.find('<mi>λ</mi>'))
+    if p1!=-1:
+      formula.append(85)
+
+    p1=(line.find('<mi>ξ</mi>'))
+    if p1!=-1:
+      formula.append(86)
+
+    p1=(line.find('<mi>□</mi>'))
+    if p1!=-1:
+      formula.append(87)
+
+    p1=(line.find('<mi>log</mi>'))or(line.find('<mi>ln</mi>'))
+    if p1!=-1:
+      formula.append(88)
+
+    p1=(line.find('<mi>!</mi>'))
+    if p1!=-1:
+      formula.append(89)
+
+    p1=(line.find('<mi>sin</mi>'))or(line.find('<mi>cos</mi>'))or(line.find('<mi>tan</mi>'))or(line.find('<mi>cot</mi>'))or(line.find('<mi>sinh</mi>'))or(line.find('<mi>cosh</mi>'))
+    if p1!=-1:
+      formula.append(90)
+
+    p1=(line.find('<mi>ℝ</mi>'))
+    if p1!=-1:
+      formula.append(91)
+
+    p1=(line.find('<mi>θ</mi>'))
+    if p1!=-1:
+      formula.append(92)
+
+    p1=(line.find('<mi>gcd</mi>'))
+    if p1!=-1:
+      formula.append(93)
+
+    p1=(line.find('<mi>xor</mi>'))
+    if p1!=-1:
+      formula.append(94)
+
+    p1=(line.find('<mi>τ</mi>'))
+    if p1!=-1:
+      formula.append(95)
+
+    p1=(line.find('<mi>η</mi>'))
+    if p1!=-1:
+      formula.append(96)
+
+    p1=(line.find('<mi>σ</mi>'))
+    if p1!=-1:
+      formula.append(97)      
+
+    p1=(line.find('<mi>Ω</mi>'))
+    if p1!=-1:
+      formula.append(98)
+
+    p1=(line.find('<mi>#</mi>'))
+    if p1!=-1:
+      formula.append(99)
+
+    p1=(line.find('<mi>⌜</mi>'))
+    if p1!=-1:
+      formula.append(100)
+
+    p1=(line.find('<mo>≠</mo>'))
+    if p1!=-1:
+      formula.append(101)
+
+    p1=(line.find('<mo>{</mo>'))
+    if p1!=-1:
+      formula.append(102)
+
+    p1=(line.find('<mo>}</mo>'))
+    if p1!=-1:
+      formula.append(103)
+
+    p1=(line.find('<mo>⊙</mo>'))
+    if p1!=-1:
+      formula.append(104)
+
+    p1=(line.find('<mo>≼</mo>'))or(line.find('<mo>≤</mo>'))or(line.find('<mo>≲</mo>'))
+    if p1!=-1:
+      formula.append(105)
+
+    p1=(line.find('<mo>∈</mo>'))
+    if p1!=-1:
+      formula.append(106)
+
+    p1=(line.find('<mo>[</mo>'))
+    if p1!=-1:
+      formula.append(107)
+
+    p1=(line.find('<mo>]</mo>'))
+    if p1!=-1:
+      formula.append(108)
+
+    p1=(line.find('<mo>×</mo>'))or(line.find('<mo>*</mo>'))
+    if p1!=-1:
+      formula.append(109)
+
+    p1=(line.find('<mo>∉</mo>'))
+    if p1!=-1:
+      formula.append(110)
+
+    p1=(line.find('<mo>^</mo>'))
+    if p1!=-1:
+      formula.append(111)
+
+    p1=(line.find('<mo>∑</mo>'))
+    if p1!=-1:
+      formula.append(112)
+
+    p1=(line.find('<mo>;</mo>'))
+    if p1!=-1:
+      formula.append(113)
+
+    p1=(line.find('<mo>¯</mo>'))
+    if p1!=-1:
+      formula.append(114)
+
+    p1=(line.find('<mo>⇔</mo>'))
+    if p1!=-1:
+      formula.append(115)
+
+    p1=(line.find('<mo>⟹</mo>'))
+    if p1!=-1:
+      formula.append(116)
+
+    p1=(line.find('<mo>⌈</mo>'))
+    if p1!=-1:
+      formula.append(117)
+
+    p1=(line.find('<mo>⌉</mo>'))
+    if p1!=-1:
+      formula.append(118)
+
+    p1=(line.find('<mo>∀</mo>'))
+    if p1!=-1:
+      formula.append(119)
+
+    p1=(line.find('<mo>±</mo>'))
+    if p1!=-1:
+      formula.append(120)
+
+    p1=(line.find('<mo>∫</mo>'))
+    if p1!=-1:
+      formula.append(121)
+
+    p1=(line.find('<mo>∘</mo>'))
+    if p1!=-1:
+      formula.append(122)
+
+    p1=(line.find('<mo>′</mo>'))
+    if p1!=-1:
+      formula.append(123)
+
+    p1=(line.find('<mo>∧</mo>'))
+    if p1!=-1:
+      formula.append(124)
+
+    p1=(line.find('<mo>∃</mo>'))
+    if p1!=-1:
+      formula.append(125)
+
+    p1=(line.find('<mo>¬</mo>'))
+    if p1!=-1:
+      formula.append(126)
+
+    p1=(line.find('<mo>lim</mo>'))
+    if p1!=-1:
+      formula.append(127)
+
+    p1=(line.find('<mo>⟨</mo>'))or(line.find('<mo><</mo>'))
+    if p1!=-1:
+      formula.append(128)
+
+    p1=p1=(line.find('<mo>⟩</mo>'))or(line.find('<mo>></mo>'))
+    if p1!=-1:
+      formula.append(129)
+
+    p1=(line.find('<mo>⊗</mo>'))
+    if p1!=-1:
+      formula.append(130)
+
+    p1=(line.find('<mo>⊢</mo>'))
+    if p1!=-1:
+      formula.append(131)
+
+    p1=(line.find('<mo>⊓</mo>'))
+    if p1!=-1:
+      formula.append(132)
+
+    p1=(line.find('<mo>⊔</mo>'))
+    if p1!=-1:
+      formula.append(133)
+
+    p1=(line.find('<mo>∥</mo>'))
+    if p1!=-1:
+      formula.append(134)
+
+    p1=(line.find('<mo>∪</mo>'))
+    if p1!=-1:
+      formula.append(135)
+
+    p1=(line.find('<mo>∩</mo>'))
+    if p1!=-1:
+      formula.append(136)
+
+    p1=(line.find('<mo>↦</mo>'))
+    if p1!=-1:
+      formula.append(137)
+
+    p1=(line.find('<mo>⊂</mo>'))
+    if p1!=-1:
+      formula.append(138)
+
+    p1=(line.find('<mo>det</mo>'))
+    if p1!=-1:
+      formula.append(139)
+
+    p1=(line.find('<mo>∏</mo>'))
+    if p1!=-1:
+      formula.append(140)
+
+    p1=(line.find('<mo>mod</mo>'))
+    if p1!=-1:
+      formula.append(141)
+
+    p1=(line.find('<mo>sup</mo>'))
+    if p1!=-1:
+      formula.append(142)
+
+    p1=(line.find('<mo>≥</mo>'))or(line.find('<mo>≳</mo>'))
+    if p1!=-1:
+      formula.append(143)
+
+    p1=(line.find('<mo>dim</mo>'))
+    if p1!=-1:
+      formula.append(144)
+
+    p1=(line.find('<mo>:=</mo>'))
+    if p1!=-1:
+      formula.append(145)
+
+    p1=(line.find('<mo>≅</mo>'))
+    if p1!=-1:
+      formula.append(146)
+
+    p1=(line.find('<mo>max</mo>'))
+    if p1!=-1:
+      formula.append(147)
+
+    p1=(line.find('<mo>inf</mo>'))
+    if p1!=-1:
+      formula.append(148)
+
+    p1=(line.find('<mo>min</mo>'))
+    if p1!=-1:
+      formula.append(149)
+    f3.writelines("%s\t" % formula_id[0])
+    f3.writelines("%s\t" % post[0])
+    for form in formula:
+        f3.writelines(str(form)+" ")
+    f3.writelines("\n")
+    print(formula_id, post, formula)
+  
+    formula.clear()
+    post.clear()
+    formula_id.clear()
+f3.close()
+
